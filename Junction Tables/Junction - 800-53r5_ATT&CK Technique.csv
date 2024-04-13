@@ -1,4 +1,4 @@
-﻿Junction ID,ATT&CK Technique,Security Control ID,ATT&CK Technique Name,Control Family,Control Name,mapping_type,Column1,ATT&CK Version,Domain,Creation Date,Last Update
+﻿Junction ID,ATT&CK Technique,Security Control ID,ATT&CK Technique Name,Control Family,Control Name,Mapping Type,Reference Source,ATT&CK Version,Domain,Creation Date,Last Update
 1,T1608.006,,SEO Poisoning,,,non_mappable,NIST 800-53 Revision 5,14.1,Enterprise,01/13/2022,01/13/2022
 2,T1608.005,,Link Target,,,non_mappable,NIST 800-53 Revision 5,14.1,Enterprise,01/13/2022,01/13/2022
 3,T1608.004,,Drive-by Target,,,non_mappable,NIST 800-53 Revision 5,14.1,Enterprise,01/13/2022,01/13/2022

@@ -1,0 +1,55 @@
+﻿Junction ID,Resiliency Technique,Resiliency Approach
+3,Adaptive Response,Adaptive Management
+23,Diversity,Architectural Diversity
+45,Dynamic Positioning,Asset Mobility
+8,Privilege Restriction,Attribute-Based Usage Restriction
+4,Substantiated Integrity,Behavior Validation
+31,Coordinated Protection,Calibrated Defense-in-Depth
+17,Coordinated Protection,Consistency Analysis
+50,Uncertainty,Contextual Uncertainty
+43,Unpredictability,Contextual Unpredictability
+12,Diversity,Design Diversity
+47,Deception,Disinformation
+37,Dynamic Positioning,Distributed Functionality
+1,Privilege Restriction,Dynamic Privileges
+2,Adaptive Response,Dynamic Reconfiguration
+6,Adaptive Response,Dynamic Resource Allocation
+24,Contextual Awareness,Dynamic Resource Awareness
+27,Segmentation,Dynamic Segmentation and Isolation
+21,Contextual Awareness,Dynamic Threat Awareness
+422,Realignment,Evolvability
+26,Analytic Monitoring,Forensic and Behavioral Analysis
+52,Dynamic Positioning,Fragmentation
+41,Dynamic Positioning,Functional Relocation of Cyber Resources
+33,Dynamic Positioning,Functional Relocation of Sensors
+51,Diversity,Information Diversity
+10,Substantiated Integrity,Integrity Checks
+46,Deception,Misdirection
+28,Contextual Awareness,Mission Dependency and Status Visualization
+5,Analytic Monitoring,Monitoring and Damage Assessment
+40,Non-Persistence,Non-Persistent Connectivity
+42,Non-Persistence,Non-Persistent Information
+19,Non-Persistence,Non-Persistent Services
+30,Deception,Obfuscation
+35,Realignment,Offloading
+14,Coordinated Protection,Orchestration
+18,Diversity,Path Diversity
+9,Segmentation,Predefined Segmentation
+29,Redundancy,Protected Backup and Restore
+11,Substantiated Integrity,Provenance Tracking
+16,Realignment,Purposing
+38,Realignment,Replacement
+13,Redundancy,Replication
+25,Realignment,Restriction
+53,Deception,Self-Challenge
+20,Coordinated Protection,Self-Challenge
+22,Analytic Monitoring,Sensor Fusion and Analysis
+36,Realignment,Specialization
+34,,Standard practice
+32,Diversity,Supply Chain Diversity
+39,Redundancy,Surplus Capacity
+48,Diversity,Synthetic Diversity
+49,Deception,Tainting
+44,Unpredictability,Temporal Unpredictability
+7,Privilege Restriction,Trust-Based Privilege Management
+15,,Trust-Based Usage Restriction
