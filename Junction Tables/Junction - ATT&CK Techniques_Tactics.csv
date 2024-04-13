@@ -1,0 +1,1037 @@
+﻿Junction ID,ATT&CK Technique ID,Tactic Name,ATT&CK Tactic ID,Type
+1,T0800,Inhibit Response Function,TA0107,Industrial Control Systems
+2,T0801,Collection,TA0100,Industrial Control Systems
+3,T0802,Collection,TA0100,Industrial Control Systems
+4,T0803,Inhibit Response Function,TA0107,Industrial Control Systems
+5,T0804,Inhibit Response Function,TA0107,Industrial Control Systems
+6,T0805,Inhibit Response Function,TA0107,Industrial Control Systems
+7,T0806,Impair Process Control,TA0106,Industrial Control Systems
+8,T0807,Execution,TA0104,Industrial Control Systems
+9,T0809,Inhibit Response Function,TA0107,Industrial Control Systems
+10,T0811,Collection,TA0100,Industrial Control Systems
+11,T0812,Lateral Movement,TA0109,Industrial Control Systems
+12,T0813,Impact,TA0105,Industrial Control Systems
+13,T0814,Inhibit Response Function,TA0107,Industrial Control Systems
+14,T0815,Impact,TA0105,Industrial Control Systems
+15,T0816,Inhibit Response Function,TA0107,Industrial Control Systems
+16,T0817,Initial Access,TA0108,Industrial Control Systems
+17,T0819,Initial Access,TA0108,Industrial Control Systems
+18,T0820,Evasion,TA0103,Industrial Control Systems
+19,T0821,Execution,TA0104,Industrial Control Systems
+20,T0822,Initial Access,TA0108,Industrial Control Systems
+21,T0823,Execution,TA0104,Industrial Control Systems
+22,T0826,Impact,TA0105,Industrial Control Systems
+23,T0827,Impact,TA0105,Industrial Control Systems
+24,T0828,Impact,TA0105,Industrial Control Systems
+25,T0829,Impact,TA0105,Industrial Control Systems
+26,T0830,Collection,TA0100,Industrial Control Systems
+27,T0831,Impact,TA0105,Industrial Control Systems
+28,T0832,Impact,TA0105,Industrial Control Systems
+29,T0834,Execution,TA0104,Industrial Control Systems
+30,T0835,Inhibit Response Function,TA0107,Industrial Control Systems
+31,T0836,Impair Process Control,TA0106,Industrial Control Systems
+32,T0837,Impact,TA0105,Industrial Control Systems
+33,T0838,Inhibit Response Function,TA0107,Industrial Control Systems
+34,T0839,Impair Process Control,TA0106,Industrial Control Systems
+35,T0839,Persistence,TA0110,Industrial Control Systems
+36,T0840,Discovery,TA0102,Industrial Control Systems
+37,T0842,Discovery,TA0102,Industrial Control Systems
+38,T0843,Lateral Movement,TA0109,Industrial Control Systems
+39,T0845,Collection,TA0100,Industrial Control Systems
+40,T0846,Discovery,TA0102,Industrial Control Systems
+41,T0847,Initial Access,TA0108,Industrial Control Systems
+42,T0848,Initial Access,TA0108,Industrial Control Systems
+43,T0849,Evasion,TA0103,Industrial Control Systems
+44,T0851,Evasion,TA0103,Industrial Control Systems
+45,T0851,Inhibit Response Function,TA0107,Industrial Control Systems
+46,T0852,Collection,TA0100,Industrial Control Systems
+47,T0853,Execution,TA0104,Industrial Control Systems
+48,T0855,Impair Process Control,TA0106,Industrial Control Systems
+49,T0856,Evasion,TA0103,Industrial Control Systems
+50,T0856,Impair Process Control,TA0106,Industrial Control Systems
+51,T0857,Inhibit Response Function,TA0107,Industrial Control Systems
+52,T0857,Persistence,TA0110,Industrial Control Systems
+53,T0858,Evasion,TA0103,Industrial Control Systems
+54,T0858,Execution,TA0104,Industrial Control Systems
+55,T0859,Lateral Movement,TA0109,Industrial Control Systems
+56,T0859,Persistence,TA0110,Industrial Control Systems
+57,T0860,Initial Access,TA0108,Industrial Control Systems
+58,T0861,Collection,TA0100,Industrial Control Systems
+59,T0862,Initial Access,TA0108,Industrial Control Systems
+60,T0863,Execution,TA0104,Industrial Control Systems
+61,T0864,Initial Access,TA0108,Industrial Control Systems
+62,T0865,Initial Access,TA0108,Industrial Control Systems
+63,T0866,Initial Access,TA0108,Industrial Control Systems
+64,T0866,Lateral Movement,TA0109,Industrial Control Systems
+65,T0867,Lateral Movement,TA0109,Industrial Control Systems
+66,T0868,Collection,TA0100,Industrial Control Systems
+67,T0869,Command and Control,TA0101,Industrial Control Systems
+68,T0871,Execution,TA0104,Industrial Control Systems
+69,T0872,Evasion,TA0103,Industrial Control Systems
+70,T0873,Persistence,TA0110,Industrial Control Systems
+71,T0874,Execution,TA0104,Industrial Control Systems
+72,T0874,Privilege Escalation,TA0111,Industrial Control Systems
+73,T0877,Collection,TA0100,Industrial Control Systems
+74,T0878,Inhibit Response Function,TA0107,Industrial Control Systems
+75,T0879,Impact,TA0105,Industrial Control Systems
+76,T0880,Impact,TA0105,Industrial Control Systems
+77,T0881,Inhibit Response Function,TA0107,Industrial Control Systems
+78,T0882,Impact,TA0105,Industrial Control Systems
+79,T0883,Initial Access,TA0108,Industrial Control Systems
+80,T0884,Command and Control,TA0101,Industrial Control Systems
+81,T0885,Command and Control,TA0101,Industrial Control Systems
+82,T0886,Initial Access,TA0108,Industrial Control Systems
+83,T0886,Lateral Movement,TA0109,Industrial Control Systems
+84,T0887,Collection,TA0100,Industrial Control Systems
+85,T0887,Discovery,TA0102,Industrial Control Systems
+86,T0888,Discovery,TA0102,Industrial Control Systems
+87,T0889,Persistence,TA0110,Industrial Control Systems
+88,T0890,Privilege Escalation,TA0111,Industrial Control Systems
+89,T0891,Lateral Movement,TA0109,Industrial Control Systems
+90,T0891,Persistence,TA0110,Industrial Control Systems
+91,T0892,Inhibit Response Function,TA0107,Industrial Control Systems
+92,T0893,Collection,TA0100,Industrial Control Systems
+93,T1398,Persistence,TA0028,Mobile
+94,T1404,Privilege Escalation,TA0029,Mobile
+95,T1406,Defense Evasion,TA0030,Mobile
+96,T1406.001,Defense Evasion,TA0030,Mobile
+97,T1406.002,Defense Evasion,TA0030,Mobile
+98,T1407,Defense Evasion,TA0030,Mobile
+99,T1409,Collection,TA0035,Mobile
+100,T1414,Credential Access,TA0031,Mobile
+101,T1414,Collection,TA0035,Mobile
+102,T1417,Credential Access,TA0031,Mobile
+103,T1417,Collection,TA0035,Mobile
+104,T1417.001,Credential Access,TA0031,Mobile
+105,T1417.001,Collection,TA0035,Mobile
+106,T1417.002,Credential Access,TA0031,Mobile
+107,T1417.002,Collection,TA0035,Mobile
+108,T1418,Discovery,TA0032,Mobile
+109,T1418.001,Discovery,TA0032,Mobile
+110,T1420,Discovery,TA0032,Mobile
+111,T1421,Discovery,TA0032,Mobile
+112,T1422,Discovery,TA0032,Mobile
+113,T1423,Discovery,TA0032,Mobile
+114,T1424,Discovery,TA0032,Mobile
+115,T1426,Discovery,TA0032,Mobile
+116,T1428,Lateral Movement,TA0033,Mobile
+117,T1429,Collection,TA0035,Mobile
+118,T1430,Discovery,TA0032,Mobile
+119,T1430,Collection,TA0035,Mobile
+120,T1430.001,Discovery,TA0032,Mobile
+121,T1430.001,Collection,TA0035,Mobile
+122,T1430.002,Discovery,TA0032,Mobile
+123,T1430.002,Collection,TA0035,Mobile
+124,T1437,Command and Control,TA0037,Mobile
+125,T1437.001,Command and Control,TA0037,Mobile
+126,T1456,Initial Access,TA0027,Mobile
+127,T1458,Lateral Movement,TA0033,Mobile
+128,T1458,Initial Access,TA0027,Mobile
+129,T1461,Initial Access,TA0027,Mobile
+130,T1464,Impact,TA0034,Mobile
+131,T1471,Impact,TA0034,Mobile
+132,T1474,Initial Access,TA0027,Mobile
+133,T1474.001,Initial Access,TA0027,Mobile
+134,T1474.002,Initial Access,TA0027,Mobile
+135,T1474.003,Initial Access,TA0027,Mobile
+136,T1481,Command and Control,TA0037,Mobile
+137,T1481.001,Command and Control,TA0037,Mobile
+138,T1481.002,Command and Control,TA0037,Mobile
+139,T1481.003,Command and Control,TA0037,Mobile
+140,T1509,Command and Control,TA0037,Mobile
+141,T1512,Collection,TA0035,Mobile
+142,T1513,Collection,TA0035,Mobile
+143,T1516,Impact,TA0034,Mobile
+144,T1516,Defense Evasion,TA0030,Mobile
+145,T1517,Credential Access,TA0031,Mobile
+146,T1517,Collection,TA0035,Mobile
+147,T1521,Command and Control,TA0037,Mobile
+148,T1521.001,Command and Control,TA0037,Mobile
+149,T1521.002,Command and Control,TA0037,Mobile
+150,T1532,Collection,TA0035,Mobile
+151,T1533,Collection,TA0035,Mobile
+152,T1541,Persistence,TA0028,Mobile
+153,T1541,Defense Evasion,TA0030,Mobile
+154,T1544,Command and Control,TA0037,Mobile
+155,T1575,Execution,TA0041,Mobile
+156,T1575,Defense Evasion,TA0030,Mobile
+157,T1577,Persistence,TA0028,Mobile
+158,T1582,Impact,TA0034,Mobile
+159,T1603,Persistence,TA0028,Mobile
+160,T1603,Execution,TA0041,Mobile
+161,T1604,Defense Evasion,TA0030,Mobile
+162,T1616,Command and Control,TA0037,Mobile
+163,T1616,Impact,TA0034,Mobile
+164,T1616,Collection,TA0035,Mobile
+165,T1617,Defense Evasion,TA0030,Mobile
+166,T1623,Execution,TA0041,Mobile
+167,T1623.001,Execution,TA0041,Mobile
+168,T1624,Persistence,TA0028,Mobile
+169,T1624.001,Persistence,TA0028,Mobile
+170,T1625,Persistence,TA0028,Mobile
+171,T1625.001,Persistence,TA0028,Mobile
+172,T1626,Privilege Escalation,TA0029,Mobile
+173,T1626.001,Privilege Escalation,TA0029,Mobile
+174,T1627,Defense Evasion,TA0030,Mobile
+175,T1627.001,Defense Evasion,TA0030,Mobile
+176,T1628,Defense Evasion,TA0030,Mobile
+177,T1628.001,Defense Evasion,TA0030,Mobile
+178,T1628.002,Defense Evasion,TA0030,Mobile
+179,T1629,Defense Evasion,TA0030,Mobile
+180,T1629.001,Defense Evasion,TA0030,Mobile
+181,T1629.002,Defense Evasion,TA0030,Mobile
+182,T1629.003,Defense Evasion,TA0030,Mobile
+183,T1630,Defense Evasion,TA0030,Mobile
+184,T1630.001,Defense Evasion,TA0030,Mobile
+185,T1630.002,Defense Evasion,TA0030,Mobile
+186,T1630.003,Defense Evasion,TA0030,Mobile
+187,T1631,Defense Evasion,TA0030,Mobile
+188,T1631,Privilege Escalation,TA0029,Mobile
+189,T1631.001,Defense Evasion,TA0030,Mobile
+190,T1631.001,Privilege Escalation,TA0029,Mobile
+191,T1632,Defense Evasion,TA0030,Mobile
+192,T1632.001,Defense Evasion,TA0030,Mobile
+193,T1633,Defense Evasion,TA0030,Mobile
+194,T1633.001,Defense Evasion,TA0030,Mobile
+195,T1634,Credential Access,TA0031,Mobile
+196,T1634.001,Credential Access,TA0031,Mobile
+197,T1635,Credential Access,TA0031,Mobile
+198,T1635.001,Credential Access,TA0031,Mobile
+199,T1636,Collection,TA0035,Mobile
+200,T1636.001,Collection,TA0035,Mobile
+201,T1636.002,Collection,TA0035,Mobile
+202,T1636.003,Collection,TA0035,Mobile
+203,T1636.004,Collection,TA0035,Mobile
+204,T1637,Command and Control,TA0037,Mobile
+205,T1637.001,Command and Control,TA0037,Mobile
+206,T1638,Collection,TA0035,Mobile
+207,T1639,Exfiltration,TA0036,Mobile
+208,T1639.001,Exfiltration,TA0036,Mobile
+209,T1640,Impact,TA0034,Mobile
+210,T1641,Impact,TA0034,Mobile
+211,T1641.001,Impact,TA0034,Mobile
+212,T1642,Impact,TA0034,Mobile
+213,T1643,Impact,TA0034,Mobile
+214,T1644,Command and Control,TA0037,Mobile
+215,T1645,Persistence,TA0028,Mobile
+216,T1646,Exfiltration,TA0036,Mobile
+217,T1655,Defense Evasion,TA0030,Mobile
+218,T1655.001,Defense Evasion,TA0030,Mobile
+219,T1658,Execution,TA0041,Mobile
+220,T1660,Initial Access,TA0027,Mobile
+221,T1661,Initial Access,TA0027,Mobile
+222,T1661,Defense Evasion,TA0030,Mobile
+223,T1662,Impact,TA0034,Mobile
+224,T1663,Command and Control,TA0037,Mobile
+225,T1001,Command and Control,TA0011,Enterprise
+226,T1001.001,Command and Control,TA0011,Enterprise
+227,T1001.002,Command and Control,TA0011,Enterprise
+228,T1001.003,Command and Control,TA0011,Enterprise
+229,T1003,Credential Access,TA0006,Enterprise
+230,T1003.001,Credential Access,TA0006,Enterprise
+231,T1003.002,Credential Access,TA0006,Enterprise
+232,T1003.003,Credential Access,TA0006,Enterprise
+233,T1003.004,Credential Access,TA0006,Enterprise
+234,T1003.005,Credential Access,TA0006,Enterprise
+235,T1003.006,Credential Access,TA0006,Enterprise
+236,T1003.007,Credential Access,TA0006,Enterprise
+237,T1003.008,Credential Access,TA0006,Enterprise
+238,T1005,Collection,TA0009,Enterprise
+239,T1006,Defense Evasion,TA0005,Enterprise
+240,T1007,Discovery,TA0007,Enterprise
+241,T1008,Command and Control,TA0011,Enterprise
+242,T1010,Discovery,TA0007,Enterprise
+243,T1011,Exfiltration,TA0010,Enterprise
+244,T1011.001,Exfiltration,TA0010,Enterprise
+245,T1012,Discovery,TA0007,Enterprise
+246,T1014,Defense Evasion,TA0005,Enterprise
+247,T1016,Discovery,TA0007,Enterprise
+248,T1016.001,Discovery,TA0007,Enterprise
+249,T1016.002,Discovery,TA0007,Enterprise
+250,T1018,Discovery,TA0007,Enterprise
+251,T1020,Exfiltration,TA0010,Enterprise
+252,T1020.001,Exfiltration,TA0010,Enterprise
+253,T1021,Lateral Movement,TA0008,Enterprise
+254,T1021.001,Lateral Movement,TA0008,Enterprise
+255,T1021.002,Lateral Movement,TA0008,Enterprise
+256,T1021.003,Lateral Movement,TA0008,Enterprise
+257,T1021.004,Lateral Movement,TA0008,Enterprise
+258,T1021.005,Lateral Movement,TA0008,Enterprise
+259,T1021.006,Lateral Movement,TA0008,Enterprise
+260,T1021.007,Lateral Movement,TA0008,Enterprise
+261,T1021.008,Lateral Movement,TA0008,Enterprise
+262,T1025,Collection,TA0009,Enterprise
+263,T1027,Defense Evasion,TA0005,Enterprise
+264,T1027.001,Defense Evasion,TA0005,Enterprise
+265,T1027.002,Defense Evasion,TA0005,Enterprise
+266,T1027.003,Defense Evasion,TA0005,Enterprise
+267,T1027.004,Defense Evasion,TA0005,Enterprise
+268,T1027.005,Defense Evasion,TA0005,Enterprise
+269,T1027.006,Defense Evasion,TA0005,Enterprise
+270,T1027.007,Defense Evasion,TA0005,Enterprise
+271,T1027.008,Defense Evasion,TA0005,Enterprise
+272,T1027.009,Defense Evasion,TA0005,Enterprise
+273,T1027.010,Defense Evasion,TA0005,Enterprise
+274,T1027.011,Defense Evasion,TA0005,Enterprise
+275,T1027.012,Defense Evasion,TA0005,Enterprise
+276,T1029,Exfiltration,TA0010,Enterprise
+277,T1030,Exfiltration,TA0010,Enterprise
+278,T1033,Discovery,TA0007,Enterprise
+279,T1036,Defense Evasion,TA0005,Enterprise
+280,T1036.001,Defense Evasion,TA0005,Enterprise
+281,T1036.002,Defense Evasion,TA0005,Enterprise
+282,T1036.003,Defense Evasion,TA0005,Enterprise
+283,T1036.004,Defense Evasion,TA0005,Enterprise
+284,T1036.005,Defense Evasion,TA0005,Enterprise
+285,T1036.006,Defense Evasion,TA0005,Enterprise
+286,T1036.007,Defense Evasion,TA0005,Enterprise
+287,T1036.008,Defense Evasion,TA0005,Enterprise
+288,T1036.009,Defense Evasion,TA0005,Enterprise
+289,T1037,Persistence,TA0003,Enterprise
+290,T1037,Privilege Escalation,TA0004,Enterprise
+291,T1037.001,Persistence,TA0003,Enterprise
+292,T1037.001,Privilege Escalation,TA0004,Enterprise
+293,T1037.002,Persistence,TA0003,Enterprise
+294,T1037.002,Privilege Escalation,TA0004,Enterprise
+295,T1037.003,Persistence,TA0003,Enterprise
+296,T1037.003,Privilege Escalation,TA0004,Enterprise
+297,T1037.004,Persistence,TA0003,Enterprise
+298,T1037.004,Privilege Escalation,TA0004,Enterprise
+299,T1037.005,Persistence,TA0003,Enterprise
+300,T1037.005,Privilege Escalation,TA0004,Enterprise
+301,T1039,Collection,TA0009,Enterprise
+302,T1040,Credential Access,TA0006,Enterprise
+303,T1040,Discovery,TA0007,Enterprise
+304,T1041,Exfiltration,TA0010,Enterprise
+305,T1046,Discovery,TA0007,Enterprise
+306,T1047,Execution,TA0002,Enterprise
+307,T1048,Exfiltration,TA0010,Enterprise
+308,T1048.001,Exfiltration,TA0010,Enterprise
+309,T1048.002,Exfiltration,TA0010,Enterprise
+310,T1048.003,Exfiltration,TA0010,Enterprise
+311,T1049,Discovery,TA0007,Enterprise
+312,T1052,Exfiltration,TA0010,Enterprise
+313,T1052.001,Exfiltration,TA0010,Enterprise
+314,T1053,Execution,TA0002,Enterprise
+315,T1053,Persistence,TA0003,Enterprise
+316,T1053,Privilege Escalation,TA0004,Enterprise
+317,T1053.002,Execution,TA0002,Enterprise
+318,T1053.002,Persistence,TA0003,Enterprise
+319,T1053.002,Privilege Escalation,TA0004,Enterprise
+320,T1053.003,Execution,TA0002,Enterprise
+321,T1053.003,Persistence,TA0003,Enterprise
+322,T1053.003,Privilege Escalation,TA0004,Enterprise
+323,T1053.005,Execution,TA0002,Enterprise
+324,T1053.005,Persistence,TA0003,Enterprise
+325,T1053.005,Privilege Escalation,TA0004,Enterprise
+326,T1053.006,Execution,TA0002,Enterprise
+327,T1053.006,Persistence,TA0003,Enterprise
+328,T1053.006,Privilege Escalation,TA0004,Enterprise
+329,T1053.007,Execution,TA0002,Enterprise
+330,T1053.007,Persistence,TA0003,Enterprise
+331,T1053.007,Privilege Escalation,TA0004,Enterprise
+332,T1055,Defense Evasion,TA0005,Enterprise
+333,T1055,Privilege Escalation,TA0004,Enterprise
+334,T1055.001,Defense Evasion,TA0005,Enterprise
+335,T1055.001,Privilege Escalation,TA0004,Enterprise
+336,T1055.002,Defense Evasion,TA0005,Enterprise
+337,T1055.002,Privilege Escalation,TA0004,Enterprise
+338,T1055.003,Defense Evasion,TA0005,Enterprise
+339,T1055.003,Privilege Escalation,TA0004,Enterprise
+340,T1055.004,Defense Evasion,TA0005,Enterprise
+341,T1055.004,Privilege Escalation,TA0004,Enterprise
+342,T1055.005,Defense Evasion,TA0005,Enterprise
+343,T1055.005,Privilege Escalation,TA0004,Enterprise
+344,T1055.008,Defense Evasion,TA0005,Enterprise
+345,T1055.008,Privilege Escalation,TA0004,Enterprise
+346,T1055.009,Defense Evasion,TA0005,Enterprise
+347,T1055.009,Privilege Escalation,TA0004,Enterprise
+348,T1055.011,Defense Evasion,TA0005,Enterprise
+349,T1055.011,Privilege Escalation,TA0004,Enterprise
+350,T1055.012,Defense Evasion,TA0005,Enterprise
+351,T1055.012,Privilege Escalation,TA0004,Enterprise
+352,T1055.013,Defense Evasion,TA0005,Enterprise
+353,T1055.013,Privilege Escalation,TA0004,Enterprise
+354,T1055.014,Defense Evasion,TA0005,Enterprise
+355,T1055.014,Privilege Escalation,TA0004,Enterprise
+356,T1055.015,Defense Evasion,TA0005,Enterprise
+357,T1055.015,Privilege Escalation,TA0004,Enterprise
+358,T1056,Credential Access,TA0006,Enterprise
+359,T1056,Collection,TA0009,Enterprise
+360,T1056.001,Credential Access,TA0006,Enterprise
+361,T1056.001,Collection,TA0009,Enterprise
+362,T1056.002,Credential Access,TA0006,Enterprise
+363,T1056.002,Collection,TA0009,Enterprise
+364,T1056.003,Credential Access,TA0006,Enterprise
+365,T1056.003,Collection,TA0009,Enterprise
+366,T1056.004,Credential Access,TA0006,Enterprise
+367,T1056.004,Collection,TA0009,Enterprise
+368,T1057,Discovery,TA0007,Enterprise
+369,T1059,Execution,TA0002,Enterprise
+370,T1059.001,Execution,TA0002,Enterprise
+371,T1059.002,Execution,TA0002,Enterprise
+372,T1059.003,Execution,TA0002,Enterprise
+373,T1059.004,Execution,TA0002,Enterprise
+374,T1059.005,Execution,TA0002,Enterprise
+375,T1059.006,Execution,TA0002,Enterprise
+376,T1059.007,Execution,TA0002,Enterprise
+377,T1059.008,Execution,TA0002,Enterprise
+378,T1059.009,Execution,TA0002,Enterprise
+379,T1068,Privilege Escalation,TA0004,Enterprise
+380,T1069,Discovery,TA0007,Enterprise
+381,T1069.001,Discovery,TA0007,Enterprise
+382,T1069.002,Discovery,TA0007,Enterprise
+383,T1069.003,Discovery,TA0007,Enterprise
+384,T1070,Defense Evasion,TA0005,Enterprise
+385,T1070.001,Defense Evasion,TA0005,Enterprise
+386,T1070.002,Defense Evasion,TA0005,Enterprise
+387,T1070.003,Defense Evasion,TA0005,Enterprise
+388,T1070.004,Defense Evasion,TA0005,Enterprise
+389,T1070.005,Defense Evasion,TA0005,Enterprise
+390,T1070.006,Defense Evasion,TA0005,Enterprise
+391,T1070.007,Defense Evasion,TA0005,Enterprise
+392,T1070.008,Defense Evasion,TA0005,Enterprise
+393,T1070.009,Defense Evasion,TA0005,Enterprise
+394,T1071,Command and Control,TA0011,Enterprise
+395,T1071.001,Command and Control,TA0011,Enterprise
+396,T1071.002,Command and Control,TA0011,Enterprise
+397,T1071.003,Command and Control,TA0011,Enterprise
+398,T1071.004,Command and Control,TA0011,Enterprise
+399,T1072,Execution,TA0002,Enterprise
+400,T1072,Lateral Movement,TA0008,Enterprise
+401,T1074,Collection,TA0009,Enterprise
+402,T1074.001,Collection,TA0009,Enterprise
+403,T1074.002,Collection,TA0009,Enterprise
+404,T1078,Initial Access,TA0001,Enterprise
+405,T1078,Defense Evasion,TA0005,Enterprise
+406,T1078,Persistence,TA0003,Enterprise
+407,T1078,Privilege Escalation,TA0004,Enterprise
+408,T1078.001,Initial Access,TA0001,Enterprise
+409,T1078.001,Defense Evasion,TA0005,Enterprise
+410,T1078.001,Persistence,TA0003,Enterprise
+411,T1078.001,Privilege Escalation,TA0004,Enterprise
+412,T1078.002,Initial Access,TA0001,Enterprise
+413,T1078.002,Defense Evasion,TA0005,Enterprise
+414,T1078.002,Persistence,TA0003,Enterprise
+415,T1078.002,Privilege Escalation,TA0004,Enterprise
+416,T1078.003,Initial Access,TA0001,Enterprise
+417,T1078.003,Defense Evasion,TA0005,Enterprise
+418,T1078.003,Persistence,TA0003,Enterprise
+419,T1078.003,Privilege Escalation,TA0004,Enterprise
+420,T1078.004,Initial Access,TA0001,Enterprise
+421,T1078.004,Defense Evasion,TA0005,Enterprise
+422,T1078.004,Persistence,TA0003,Enterprise
+423,T1078.004,Privilege Escalation,TA0004,Enterprise
+424,T1080,Lateral Movement,TA0008,Enterprise
+425,T1082,Discovery,TA0007,Enterprise
+426,T1083,Discovery,TA0007,Enterprise
+427,T1087,Discovery,TA0007,Enterprise
+428,T1087.001,Discovery,TA0007,Enterprise
+429,T1087.002,Discovery,TA0007,Enterprise
+430,T1087.003,Discovery,TA0007,Enterprise
+431,T1087.004,Discovery,TA0007,Enterprise
+432,T1090,Command and Control,TA0011,Enterprise
+433,T1090.001,Command and Control,TA0011,Enterprise
+434,T1090.002,Command and Control,TA0011,Enterprise
+435,T1090.003,Command and Control,TA0011,Enterprise
+436,T1090.004,Command and Control,TA0011,Enterprise
+437,T1091,Lateral Movement,TA0008,Enterprise
+438,T1091,Initial Access,TA0001,Enterprise
+439,T1092,Command and Control,TA0011,Enterprise
+440,T1095,Command and Control,TA0011,Enterprise
+441,T1098,Persistence,TA0003,Enterprise
+442,T1098,Privilege Escalation,TA0004,Enterprise
+443,T1098.001,Persistence,TA0003,Enterprise
+444,T1098.001,Privilege Escalation,TA0004,Enterprise
+445,T1098.002,Persistence,TA0003,Enterprise
+446,T1098.002,Privilege Escalation,TA0004,Enterprise
+447,T1098.003,Persistence,TA0003,Enterprise
+448,T1098.003,Privilege Escalation,TA0004,Enterprise
+449,T1098.004,Persistence,TA0003,Enterprise
+450,T1098.004,Privilege Escalation,TA0004,Enterprise
+451,T1098.005,Persistence,TA0003,Enterprise
+452,T1098.005,Privilege Escalation,TA0004,Enterprise
+453,T1098.006,Persistence,TA0003,Enterprise
+454,T1098.006,Privilege Escalation,TA0004,Enterprise
+455,T1102,Command and Control,TA0011,Enterprise
+456,T1102.001,Command and Control,TA0011,Enterprise
+457,T1102.002,Command and Control,TA0011,Enterprise
+458,T1102.003,Command and Control,TA0011,Enterprise
+459,T1104,Command and Control,TA0011,Enterprise
+460,T1105,Command and Control,TA0011,Enterprise
+461,T1106,Execution,TA0002,Enterprise
+462,T1110,Credential Access,TA0006,Enterprise
+463,T1110.001,Credential Access,TA0006,Enterprise
+464,T1110.002,Credential Access,TA0006,Enterprise
+465,T1110.003,Credential Access,TA0006,Enterprise
+466,T1110.004,Credential Access,TA0006,Enterprise
+467,T1111,Credential Access,TA0006,Enterprise
+468,T1112,Defense Evasion,TA0005,Enterprise
+469,T1113,Collection,TA0009,Enterprise
+470,T1114,Collection,TA0009,Enterprise
+471,T1114.001,Collection,TA0009,Enterprise
+472,T1114.002,Collection,TA0009,Enterprise
+473,T1114.003,Collection,TA0009,Enterprise
+474,T1115,Collection,TA0009,Enterprise
+475,T1119,Collection,TA0009,Enterprise
+476,T1120,Discovery,TA0007,Enterprise
+477,T1123,Collection,TA0009,Enterprise
+478,T1124,Discovery,TA0007,Enterprise
+479,T1125,Collection,TA0009,Enterprise
+480,T1127,Defense Evasion,TA0005,Enterprise
+481,T1127.001,Defense Evasion,TA0005,Enterprise
+482,T1129,Execution,TA0002,Enterprise
+483,T1132,Command and Control,TA0011,Enterprise
+484,T1132.001,Command and Control,TA0011,Enterprise
+485,T1132.002,Command and Control,TA0011,Enterprise
+486,T1133,Initial Access,TA0001,Enterprise
+487,T1133,Persistence,TA0003,Enterprise
+488,T1134,Defense Evasion,TA0005,Enterprise
+489,T1134,Privilege Escalation,TA0004,Enterprise
+490,T1134.001,Defense Evasion,TA0005,Enterprise
+491,T1134.001,Privilege Escalation,TA0004,Enterprise
+492,T1134.002,Defense Evasion,TA0005,Enterprise
+493,T1134.002,Privilege Escalation,TA0004,Enterprise
+494,T1134.003,Defense Evasion,TA0005,Enterprise
+495,T1134.003,Privilege Escalation,TA0004,Enterprise
+496,T1134.004,Defense Evasion,TA0005,Enterprise
+497,T1134.004,Privilege Escalation,TA0004,Enterprise
+498,T1134.005,Defense Evasion,TA0005,Enterprise
+499,T1134.005,Privilege Escalation,TA0004,Enterprise
+500,T1135,Discovery,TA0007,Enterprise
+501,T1136,Persistence,TA0003,Enterprise
+502,T1136.001,Persistence,TA0003,Enterprise
+503,T1136.002,Persistence,TA0003,Enterprise
+504,T1136.003,Persistence,TA0003,Enterprise
+505,T1137,Persistence,TA0003,Enterprise
+506,T1137.001,Persistence,TA0003,Enterprise
+507,T1137.002,Persistence,TA0003,Enterprise
+508,T1137.003,Persistence,TA0003,Enterprise
+509,T1137.004,Persistence,TA0003,Enterprise
+510,T1137.005,Persistence,TA0003,Enterprise
+511,T1137.006,Persistence,TA0003,Enterprise
+512,T1140,Defense Evasion,TA0005,Enterprise
+513,T1176,Persistence,TA0003,Enterprise
+514,T1185,Collection,TA0009,Enterprise
+515,T1187,Credential Access,TA0006,Enterprise
+516,T1189,Initial Access,TA0001,Enterprise
+517,T1190,Initial Access,TA0001,Enterprise
+518,T1195,Initial Access,TA0001,Enterprise
+519,T1195.001,Initial Access,TA0001,Enterprise
+520,T1195.002,Initial Access,TA0001,Enterprise
+521,T1195.003,Initial Access,TA0001,Enterprise
+522,T1197,Persistence,TA0003,Enterprise
+523,T1197,Defense Evasion,TA0005,Enterprise
+524,T1199,Initial Access,TA0001,Enterprise
+525,T1200,Initial Access,TA0001,Enterprise
+526,T1201,Discovery,TA0007,Enterprise
+527,T1202,Defense Evasion,TA0005,Enterprise
+528,T1203,Execution,TA0002,Enterprise
+529,T1204,Execution,TA0002,Enterprise
+530,T1204.001,Execution,TA0002,Enterprise
+531,T1204.002,Execution,TA0002,Enterprise
+532,T1204.003,Execution,TA0002,Enterprise
+533,T1205,Defense Evasion,TA0005,Enterprise
+534,T1205,Persistence,TA0003,Enterprise
+535,T1205,Command and Control,TA0011,Enterprise
+536,T1205.001,Defense Evasion,TA0005,Enterprise
+537,T1205.001,Persistence,TA0003,Enterprise
+538,T1205.001,Command and Control,TA0011,Enterprise
+539,T1205.002,Defense Evasion,TA0005,Enterprise
+540,T1205.002,Persistence,TA0003,Enterprise
+541,T1205.002,Command and Control,TA0011,Enterprise
+542,T1207,Defense Evasion,TA0005,Enterprise
+543,T1210,Lateral Movement,TA0008,Enterprise
+544,T1211,Defense Evasion,TA0005,Enterprise
+545,T1212,Credential Access,TA0006,Enterprise
+546,T1213,Collection,TA0009,Enterprise
+547,T1213.001,Collection,TA0009,Enterprise
+548,T1213.002,Collection,TA0009,Enterprise
+549,T1213.003,Collection,TA0009,Enterprise
+550,T1216,Defense Evasion,TA0005,Enterprise
+551,T1216.001,Defense Evasion,TA0005,Enterprise
+552,T1217,Discovery,TA0007,Enterprise
+553,T1218,Defense Evasion,TA0005,Enterprise
+554,T1218.001,Defense Evasion,TA0005,Enterprise
+555,T1218.002,Defense Evasion,TA0005,Enterprise
+556,T1218.003,Defense Evasion,TA0005,Enterprise
+557,T1218.004,Defense Evasion,TA0005,Enterprise
+558,T1218.005,Defense Evasion,TA0005,Enterprise
+559,T1218.007,Defense Evasion,TA0005,Enterprise
+560,T1218.008,Defense Evasion,TA0005,Enterprise
+561,T1218.009,Defense Evasion,TA0005,Enterprise
+562,T1218.010,Defense Evasion,TA0005,Enterprise
+563,T1218.011,Defense Evasion,TA0005,Enterprise
+564,T1218.012,Defense Evasion,TA0005,Enterprise
+565,T1218.013,Defense Evasion,TA0005,Enterprise
+566,T1218.014,Defense Evasion,TA0005,Enterprise
+567,T1219,Command and Control,TA0011,Enterprise
+568,T1220,Defense Evasion,TA0005,Enterprise
+569,T1221,Defense Evasion,TA0005,Enterprise
+570,T1222,Defense Evasion,TA0005,Enterprise
+571,T1222.001,Defense Evasion,TA0005,Enterprise
+572,T1222.002,Defense Evasion,TA0005,Enterprise
+573,T1480,Defense Evasion,TA0005,Enterprise
+574,T1480.001,Defense Evasion,TA0005,Enterprise
+575,T1482,Discovery,TA0007,Enterprise
+576,T1484,Defense Evasion,TA0005,Enterprise
+577,T1484,Privilege Escalation,TA0004,Enterprise
+578,T1484.001,Defense Evasion,TA0005,Enterprise
+579,T1484.001,Privilege Escalation,TA0004,Enterprise
+580,T1484.002,Defense Evasion,TA0005,Enterprise
+581,T1484.002,Privilege Escalation,TA0004,Enterprise
+582,T1485,Impact,TA0040,Enterprise
+583,T1486,Impact,TA0040,Enterprise
+584,T1489,Impact,TA0040,Enterprise
+585,T1490,Impact,TA0040,Enterprise
+586,T1491,Impact,TA0040,Enterprise
+587,T1491.001,Impact,TA0040,Enterprise
+588,T1491.002,Impact,TA0040,Enterprise
+589,T1495,Impact,TA0040,Enterprise
+590,T1496,Impact,TA0040,Enterprise
+591,T1497,Discovery,TA0007,Enterprise
+592,T1497,Defense Evasion,TA0005,Enterprise
+593,T1497.001,Discovery,TA0007,Enterprise
+594,T1497.001,Defense Evasion,TA0005,Enterprise
+595,T1497.002,Discovery,TA0007,Enterprise
+596,T1497.002,Defense Evasion,TA0005,Enterprise
+597,T1497.003,Discovery,TA0007,Enterprise
+598,T1497.003,Defense Evasion,TA0005,Enterprise
+599,T1498,Impact,TA0040,Enterprise
+600,T1498.001,Impact,TA0040,Enterprise
+601,T1498.002,Impact,TA0040,Enterprise
+602,T1499,Impact,TA0040,Enterprise
+603,T1499.001,Impact,TA0040,Enterprise
+604,T1499.002,Impact,TA0040,Enterprise
+605,T1499.003,Impact,TA0040,Enterprise
+606,T1499.004,Impact,TA0040,Enterprise
+607,T1505,Persistence,TA0003,Enterprise
+608,T1505.001,Persistence,TA0003,Enterprise
+609,T1505.002,Persistence,TA0003,Enterprise
+610,T1505.003,Persistence,TA0003,Enterprise
+611,T1505.004,Persistence,TA0003,Enterprise
+612,T1505.005,Persistence,TA0003,Enterprise
+613,T1518,Discovery,TA0007,Enterprise
+614,T1518.001,Discovery,TA0007,Enterprise
+615,T1525,Persistence,TA0003,Enterprise
+616,T1526,Discovery,TA0007,Enterprise
+617,T1528,Credential Access,TA0006,Enterprise
+618,T1529,Impact,TA0040,Enterprise
+619,T1530,Collection,TA0009,Enterprise
+620,T1531,Impact,TA0040,Enterprise
+621,T1534,Lateral Movement,TA0008,Enterprise
+622,T1535,Defense Evasion,TA0005,Enterprise
+623,T1537,Exfiltration,TA0010,Enterprise
+624,T1538,Discovery,TA0007,Enterprise
+625,T1539,Credential Access,TA0006,Enterprise
+626,T1542,Persistence,TA0003,Enterprise
+627,T1542,Defense Evasion,TA0005,Enterprise
+628,T1542.001,Persistence,TA0003,Enterprise
+629,T1542.001,Defense Evasion,TA0005,Enterprise
+630,T1542.002,Persistence,TA0003,Enterprise
+631,T1542.002,Defense Evasion,TA0005,Enterprise
+632,T1542.003,Persistence,TA0003,Enterprise
+633,T1542.003,Defense Evasion,TA0005,Enterprise
+634,T1542.004,Persistence,TA0003,Enterprise
+635,T1542.004,Defense Evasion,TA0005,Enterprise
+636,T1542.005,Persistence,TA0003,Enterprise
+637,T1542.005,Defense Evasion,TA0005,Enterprise
+638,T1543,Persistence,TA0003,Enterprise
+639,T1543,Privilege Escalation,TA0004,Enterprise
+640,T1543.001,Persistence,TA0003,Enterprise
+641,T1543.001,Privilege Escalation,TA0004,Enterprise
+642,T1543.002,Persistence,TA0003,Enterprise
+643,T1543.002,Privilege Escalation,TA0004,Enterprise
+644,T1543.003,Persistence,TA0003,Enterprise
+645,T1543.003,Privilege Escalation,TA0004,Enterprise
+646,T1543.004,Persistence,TA0003,Enterprise
+647,T1543.004,Privilege Escalation,TA0004,Enterprise
+648,T1546,Persistence,TA0003,Enterprise
+649,T1546,Privilege Escalation,TA0004,Enterprise
+650,T1546.001,Persistence,TA0003,Enterprise
+651,T1546.001,Privilege Escalation,TA0004,Enterprise
+652,T1546.002,Persistence,TA0003,Enterprise
+653,T1546.002,Privilege Escalation,TA0004,Enterprise
+654,T1546.003,Persistence,TA0003,Enterprise
+655,T1546.003,Privilege Escalation,TA0004,Enterprise
+656,T1546.004,Persistence,TA0003,Enterprise
+657,T1546.004,Privilege Escalation,TA0004,Enterprise
+658,T1546.005,Persistence,TA0003,Enterprise
+659,T1546.005,Privilege Escalation,TA0004,Enterprise
+660,T1546.006,Persistence,TA0003,Enterprise
+661,T1546.006,Privilege Escalation,TA0004,Enterprise
+662,T1546.007,Persistence,TA0003,Enterprise
+663,T1546.007,Privilege Escalation,TA0004,Enterprise
+664,T1546.008,Persistence,TA0003,Enterprise
+665,T1546.008,Privilege Escalation,TA0004,Enterprise
+666,T1546.009,Persistence,TA0003,Enterprise
+667,T1546.009,Privilege Escalation,TA0004,Enterprise
+668,T1546.010,Persistence,TA0003,Enterprise
+669,T1546.010,Privilege Escalation,TA0004,Enterprise
+670,T1546.011,Persistence,TA0003,Enterprise
+671,T1546.011,Privilege Escalation,TA0004,Enterprise
+672,T1546.012,Persistence,TA0003,Enterprise
+673,T1546.012,Privilege Escalation,TA0004,Enterprise
+674,T1546.013,Persistence,TA0003,Enterprise
+675,T1546.013,Privilege Escalation,TA0004,Enterprise
+676,T1546.014,Persistence,TA0003,Enterprise
+677,T1546.014,Privilege Escalation,TA0004,Enterprise
+678,T1546.015,Persistence,TA0003,Enterprise
+679,T1546.015,Privilege Escalation,TA0004,Enterprise
+680,T1546.016,Persistence,TA0003,Enterprise
+681,T1546.016,Privilege Escalation,TA0004,Enterprise
+682,T1547,Persistence,TA0003,Enterprise
+683,T1547,Privilege Escalation,TA0004,Enterprise
+684,T1547.001,Persistence,TA0003,Enterprise
+685,T1547.001,Privilege Escalation,TA0004,Enterprise
+686,T1547.002,Persistence,TA0003,Enterprise
+687,T1547.002,Privilege Escalation,TA0004,Enterprise
+688,T1547.003,Persistence,TA0003,Enterprise
+689,T1547.003,Privilege Escalation,TA0004,Enterprise
+690,T1547.004,Persistence,TA0003,Enterprise
+691,T1547.004,Privilege Escalation,TA0004,Enterprise
+692,T1547.005,Persistence,TA0003,Enterprise
+693,T1547.005,Privilege Escalation,TA0004,Enterprise
+694,T1547.006,Persistence,TA0003,Enterprise
+695,T1547.006,Privilege Escalation,TA0004,Enterprise
+696,T1547.007,Persistence,TA0003,Enterprise
+697,T1547.007,Privilege Escalation,TA0004,Enterprise
+698,T1547.008,Persistence,TA0003,Enterprise
+699,T1547.008,Privilege Escalation,TA0004,Enterprise
+700,T1547.009,Persistence,TA0003,Enterprise
+701,T1547.009,Privilege Escalation,TA0004,Enterprise
+702,T1547.010,Persistence,TA0003,Enterprise
+703,T1547.010,Privilege Escalation,TA0004,Enterprise
+704,T1547.012,Persistence,TA0003,Enterprise
+705,T1547.012,Privilege Escalation,TA0004,Enterprise
+706,T1547.013,Persistence,TA0003,Enterprise
+707,T1547.013,Privilege Escalation,TA0004,Enterprise
+708,T1547.014,Persistence,TA0003,Enterprise
+709,T1547.014,Privilege Escalation,TA0004,Enterprise
+710,T1547.015,Persistence,TA0003,Enterprise
+711,T1547.015,Privilege Escalation,TA0004,Enterprise
+712,T1548,Defense Evasion,TA0005,Enterprise
+713,T1548,Privilege Escalation,TA0004,Enterprise
+714,T1548.001,Defense Evasion,TA0005,Enterprise
+715,T1548.001,Privilege Escalation,TA0004,Enterprise
+716,T1548.002,Defense Evasion,TA0005,Enterprise
+717,T1548.002,Privilege Escalation,TA0004,Enterprise
+718,T1548.003,Defense Evasion,TA0005,Enterprise
+719,T1548.003,Privilege Escalation,TA0004,Enterprise
+720,T1548.004,Defense Evasion,TA0005,Enterprise
+721,T1548.004,Privilege Escalation,TA0004,Enterprise
+722,T1548.005,Defense Evasion,TA0005,Enterprise
+723,T1548.005,Privilege Escalation,TA0004,Enterprise
+724,T1550,Lateral Movement,TA0008,Enterprise
+725,T1550,Defense Evasion,TA0005,Enterprise
+726,T1550.001,Lateral Movement,TA0008,Enterprise
+727,T1550.001,Defense Evasion,TA0005,Enterprise
+728,T1550.002,Lateral Movement,TA0008,Enterprise
+729,T1550.002,Defense Evasion,TA0005,Enterprise
+730,T1550.003,Lateral Movement,TA0008,Enterprise
+731,T1550.003,Defense Evasion,TA0005,Enterprise
+732,T1550.004,Lateral Movement,TA0008,Enterprise
+733,T1550.004,Defense Evasion,TA0005,Enterprise
+734,T1552,Credential Access,TA0006,Enterprise
+735,T1552.001,Credential Access,TA0006,Enterprise
+736,T1552.002,Credential Access,TA0006,Enterprise
+737,T1552.003,Credential Access,TA0006,Enterprise
+738,T1552.004,Credential Access,TA0006,Enterprise
+739,T1552.005,Credential Access,TA0006,Enterprise
+740,T1552.006,Credential Access,TA0006,Enterprise
+741,T1552.007,Credential Access,TA0006,Enterprise
+742,T1552.008,Credential Access,TA0006,Enterprise
+743,T1553,Defense Evasion,TA0005,Enterprise
+744,T1553.001,Defense Evasion,TA0005,Enterprise
+745,T1553.002,Defense Evasion,TA0005,Enterprise
+746,T1553.003,Defense Evasion,TA0005,Enterprise
+747,T1553.004,Defense Evasion,TA0005,Enterprise
+748,T1553.005,Defense Evasion,TA0005,Enterprise
+749,T1553.006,Defense Evasion,TA0005,Enterprise
+750,T1554,Persistence,TA0003,Enterprise
+751,T1555,Credential Access,TA0006,Enterprise
+752,T1555.001,Credential Access,TA0006,Enterprise
+753,T1555.002,Credential Access,TA0006,Enterprise
+754,T1555.003,Credential Access,TA0006,Enterprise
+755,T1555.004,Credential Access,TA0006,Enterprise
+756,T1555.005,Credential Access,TA0006,Enterprise
+757,T1555.006,Credential Access,TA0006,Enterprise
+758,T1556,Defense Evasion,TA0005,Enterprise
+759,T1556,Persistence,TA0003,Enterprise
+760,T1556,Credential Access,TA0006,Enterprise
+761,T1556.001,Defense Evasion,TA0005,Enterprise
+762,T1556.001,Persistence,TA0003,Enterprise
+763,T1556.001,Credential Access,TA0006,Enterprise
+764,T1556.002,Defense Evasion,TA0005,Enterprise
+765,T1556.002,Persistence,TA0003,Enterprise
+766,T1556.002,Credential Access,TA0006,Enterprise
+767,T1556.003,Defense Evasion,TA0005,Enterprise
+768,T1556.003,Persistence,TA0003,Enterprise
+769,T1556.003,Credential Access,TA0006,Enterprise
+770,T1556.004,Defense Evasion,TA0005,Enterprise
+771,T1556.004,Persistence,TA0003,Enterprise
+772,T1556.004,Credential Access,TA0006,Enterprise
+773,T1556.005,Defense Evasion,TA0005,Enterprise
+774,T1556.005,Persistence,TA0003,Enterprise
+775,T1556.005,Credential Access,TA0006,Enterprise
+776,T1556.006,Defense Evasion,TA0005,Enterprise
+777,T1556.006,Persistence,TA0003,Enterprise
+778,T1556.006,Credential Access,TA0006,Enterprise
+779,T1556.007,Defense Evasion,TA0005,Enterprise
+780,T1556.007,Persistence,TA0003,Enterprise
+781,T1556.007,Credential Access,TA0006,Enterprise
+782,T1556.008,Defense Evasion,TA0005,Enterprise
+783,T1556.008,Persistence,TA0003,Enterprise
+784,T1556.008,Credential Access,TA0006,Enterprise
+785,T1557,Credential Access,TA0006,Enterprise
+786,T1557,Collection,TA0009,Enterprise
+787,T1557.001,Credential Access,TA0006,Enterprise
+788,T1557.001,Collection,TA0009,Enterprise
+789,T1557.002,Credential Access,TA0006,Enterprise
+790,T1557.002,Collection,TA0009,Enterprise
+791,T1557.003,Credential Access,TA0006,Enterprise
+792,T1557.003,Collection,TA0009,Enterprise
+793,T1558,Credential Access,TA0006,Enterprise
+794,T1558.001,Credential Access,TA0006,Enterprise
+795,T1558.002,Credential Access,TA0006,Enterprise
+796,T1558.003,Credential Access,TA0006,Enterprise
+797,T1558.004,Credential Access,TA0006,Enterprise
+798,T1559,Execution,TA0002,Enterprise
+799,T1559.001,Execution,TA0002,Enterprise
+800,T1559.002,Execution,TA0002,Enterprise
+801,T1559.003,Execution,TA0002,Enterprise
+802,T1560,Collection,TA0009,Enterprise
+803,T1560.001,Collection,TA0009,Enterprise
+804,T1560.002,Collection,TA0009,Enterprise
+805,T1560.003,Collection,TA0009,Enterprise
+806,T1561,Impact,TA0040,Enterprise
+807,T1561.001,Impact,TA0040,Enterprise
+808,T1561.002,Impact,TA0040,Enterprise
+809,T1562,Defense Evasion,TA0005,Enterprise
+810,T1562.001,Defense Evasion,TA0005,Enterprise
+811,T1562.002,Defense Evasion,TA0005,Enterprise
+812,T1562.003,Defense Evasion,TA0005,Enterprise
+813,T1562.004,Defense Evasion,TA0005,Enterprise
+814,T1562.006,Defense Evasion,TA0005,Enterprise
+815,T1562.007,Defense Evasion,TA0005,Enterprise
+816,T1562.008,Defense Evasion,TA0005,Enterprise
+817,T1562.009,Defense Evasion,TA0005,Enterprise
+818,T1562.010,Defense Evasion,TA0005,Enterprise
+819,T1562.011,Defense Evasion,TA0005,Enterprise
+820,T1562.012,Defense Evasion,TA0005,Enterprise
+821,T1563,Lateral Movement,TA0008,Enterprise
+822,T1563.001,Lateral Movement,TA0008,Enterprise
+823,T1563.002,Lateral Movement,TA0008,Enterprise
+824,T1564,Defense Evasion,TA0005,Enterprise
+825,T1564.001,Defense Evasion,TA0005,Enterprise
+826,T1564.002,Defense Evasion,TA0005,Enterprise
+827,T1564.003,Defense Evasion,TA0005,Enterprise
+828,T1564.004,Defense Evasion,TA0005,Enterprise
+829,T1564.005,Defense Evasion,TA0005,Enterprise
+830,T1564.006,Defense Evasion,TA0005,Enterprise
+831,T1564.007,Defense Evasion,TA0005,Enterprise
+832,T1564.008,Defense Evasion,TA0005,Enterprise
+833,T1564.009,Defense Evasion,TA0005,Enterprise
+834,T1564.010,Defense Evasion,TA0005,Enterprise
+835,T1564.011,Defense Evasion,TA0005,Enterprise
+836,T1565,Impact,TA0040,Enterprise
+837,T1565.001,Impact,TA0040,Enterprise
+838,T1565.002,Impact,TA0040,Enterprise
+839,T1565.003,Impact,TA0040,Enterprise
+840,T1566,Initial Access,TA0001,Enterprise
+841,T1566.001,Initial Access,TA0001,Enterprise
+842,T1566.002,Initial Access,TA0001,Enterprise
+843,T1566.003,Initial Access,TA0001,Enterprise
+844,T1566.004,Initial Access,TA0001,Enterprise
+845,T1567,Exfiltration,TA0010,Enterprise
+846,T1567.001,Exfiltration,TA0010,Enterprise
+847,T1567.002,Exfiltration,TA0010,Enterprise
+848,T1567.003,Exfiltration,TA0010,Enterprise
+849,T1567.004,Exfiltration,TA0010,Enterprise
+850,T1568,Command and Control,TA0011,Enterprise
+851,T1568.001,Command and Control,TA0011,Enterprise
+852,T1568.002,Command and Control,TA0011,Enterprise
+853,T1568.003,Command and Control,TA0011,Enterprise
+854,T1569,Execution,TA0002,Enterprise
+855,T1569.001,Execution,TA0002,Enterprise
+856,T1569.002,Execution,TA0002,Enterprise
+857,T1570,Lateral Movement,TA0008,Enterprise
+858,T1571,Command and Control,TA0011,Enterprise
+859,T1572,Command and Control,TA0011,Enterprise
+860,T1573,Command and Control,TA0011,Enterprise
+861,T1573.001,Command and Control,TA0011,Enterprise
+862,T1573.002,Command and Control,TA0011,Enterprise
+863,T1574,Persistence,TA0003,Enterprise
+864,T1574,Defense Evasion,TA0005,Enterprise
+865,T1574,Privilege Escalation,TA0004,Enterprise
+866,T1574.001,Persistence,TA0003,Enterprise
+867,T1574.001,Defense Evasion,TA0005,Enterprise
+868,T1574.001,Privilege Escalation,TA0004,Enterprise
+869,T1574.002,Persistence,TA0003,Enterprise
+870,T1574.002,Defense Evasion,TA0005,Enterprise
+871,T1574.002,Privilege Escalation,TA0004,Enterprise
+872,T1574.004,Persistence,TA0003,Enterprise
+873,T1574.004,Defense Evasion,TA0005,Enterprise
+874,T1574.004,Privilege Escalation,TA0004,Enterprise
+875,T1574.005,Persistence,TA0003,Enterprise
+876,T1574.005,Defense Evasion,TA0005,Enterprise
+877,T1574.005,Privilege Escalation,TA0004,Enterprise
+878,T1574.006,Persistence,TA0003,Enterprise
+879,T1574.006,Defense Evasion,TA0005,Enterprise
+880,T1574.006,Privilege Escalation,TA0004,Enterprise
+881,T1574.007,Persistence,TA0003,Enterprise
+882,T1574.007,Defense Evasion,TA0005,Enterprise
+883,T1574.007,Privilege Escalation,TA0004,Enterprise
+884,T1574.008,Persistence,TA0003,Enterprise
+885,T1574.008,Defense Evasion,TA0005,Enterprise
+886,T1574.008,Privilege Escalation,TA0004,Enterprise
+887,T1574.009,Persistence,TA0003,Enterprise
+888,T1574.009,Defense Evasion,TA0005,Enterprise
+889,T1574.009,Privilege Escalation,TA0004,Enterprise
+890,T1574.010,Persistence,TA0003,Enterprise
+891,T1574.010,Defense Evasion,TA0005,Enterprise
+892,T1574.010,Privilege Escalation,TA0004,Enterprise
+893,T1574.011,Persistence,TA0003,Enterprise
+894,T1574.011,Defense Evasion,TA0005,Enterprise
+895,T1574.011,Privilege Escalation,TA0004,Enterprise
+896,T1574.012,Persistence,TA0003,Enterprise
+897,T1574.012,Defense Evasion,TA0005,Enterprise
+898,T1574.012,Privilege Escalation,TA0004,Enterprise
+899,T1574.013,Persistence,TA0003,Enterprise
+900,T1574.013,Defense Evasion,TA0005,Enterprise
+901,T1574.013,Privilege Escalation,TA0004,Enterprise
+902,T1578,Defense Evasion,TA0005,Enterprise
+903,T1578.001,Defense Evasion,TA0005,Enterprise
+904,T1578.002,Defense Evasion,TA0005,Enterprise
+905,T1578.003,Defense Evasion,TA0005,Enterprise
+906,T1578.004,Defense Evasion,TA0005,Enterprise
+907,T1578.005,Defense Evasion,TA0005,Enterprise
+908,T1580,Discovery,TA0007,Enterprise
+909,T1583,Resource Development,TA0042,Enterprise
+910,T1583.001,Resource Development,TA0042,Enterprise
+911,T1583.002,Resource Development,TA0042,Enterprise
+912,T1583.003,Resource Development,TA0042,Enterprise
+913,T1583.004,Resource Development,TA0042,Enterprise
+914,T1583.005,Resource Development,TA0042,Enterprise
+915,T1583.006,Resource Development,TA0042,Enterprise
+916,T1583.007,Resource Development,TA0042,Enterprise
+917,T1583.008,Resource Development,TA0042,Enterprise
+918,T1584,Resource Development,TA0042,Enterprise
+919,T1584.001,Resource Development,TA0042,Enterprise
+920,T1584.002,Resource Development,TA0042,Enterprise
+921,T1584.003,Resource Development,TA0042,Enterprise
+922,T1584.004,Resource Development,TA0042,Enterprise
+923,T1584.005,Resource Development,TA0042,Enterprise
+924,T1584.006,Resource Development,TA0042,Enterprise
+925,T1584.007,Resource Development,TA0042,Enterprise
+926,T1585,Resource Development,TA0042,Enterprise
+927,T1585.001,Resource Development,TA0042,Enterprise
+928,T1585.002,Resource Development,TA0042,Enterprise
+929,T1585.003,Resource Development,TA0042,Enterprise
+930,T1586,Resource Development,TA0042,Enterprise
+931,T1586.001,Resource Development,TA0042,Enterprise
+932,T1586.002,Resource Development,TA0042,Enterprise
+933,T1586.003,Resource Development,TA0042,Enterprise
+934,T1587,Resource Development,TA0042,Enterprise
+935,T1587.001,Resource Development,TA0042,Enterprise
+936,T1587.002,Resource Development,TA0042,Enterprise
+937,T1587.003,Resource Development,TA0042,Enterprise
+938,T1587.004,Resource Development,TA0042,Enterprise
+939,T1588,Resource Development,TA0042,Enterprise
+940,T1588.001,Resource Development,TA0042,Enterprise
+941,T1588.002,Resource Development,TA0042,Enterprise
+942,T1588.003,Resource Development,TA0042,Enterprise
+943,T1588.004,Resource Development,TA0042,Enterprise
+944,T1588.005,Resource Development,TA0042,Enterprise
+945,T1588.006,Resource Development,TA0042,Enterprise
+946,T1589,Reconnaissance,TA0043,Enterprise
+947,T1589.001,Reconnaissance,TA0043,Enterprise
+948,T1589.002,Reconnaissance,TA0043,Enterprise
+949,T1589.003,Reconnaissance,TA0043,Enterprise
+950,T1590,Reconnaissance,TA0043,Enterprise
+951,T1590.001,Reconnaissance,TA0043,Enterprise
+952,T1590.002,Reconnaissance,TA0043,Enterprise
+953,T1590.003,Reconnaissance,TA0043,Enterprise
+954,T1590.004,Reconnaissance,TA0043,Enterprise
+955,T1590.005,Reconnaissance,TA0043,Enterprise
+956,T1590.006,Reconnaissance,TA0043,Enterprise
+957,T1591,Reconnaissance,TA0043,Enterprise
+958,T1591.001,Reconnaissance,TA0043,Enterprise
+959,T1591.002,Reconnaissance,TA0043,Enterprise
+960,T1591.003,Reconnaissance,TA0043,Enterprise
+961,T1591.004,Reconnaissance,TA0043,Enterprise
+962,T1592,Reconnaissance,TA0043,Enterprise
+963,T1592.001,Reconnaissance,TA0043,Enterprise
+964,T1592.002,Reconnaissance,TA0043,Enterprise
+965,T1592.003,Reconnaissance,TA0043,Enterprise
+966,T1592.004,Reconnaissance,TA0043,Enterprise
+967,T1593,Reconnaissance,TA0043,Enterprise
+968,T1593.001,Reconnaissance,TA0043,Enterprise
+969,T1593.002,Reconnaissance,TA0043,Enterprise
+970,T1593.003,Reconnaissance,TA0043,Enterprise
+971,T1594,Reconnaissance,TA0043,Enterprise
+972,T1595,Reconnaissance,TA0043,Enterprise
+973,T1595.001,Reconnaissance,TA0043,Enterprise
+974,T1595.002,Reconnaissance,TA0043,Enterprise
+975,T1595.003,Reconnaissance,TA0043,Enterprise
+976,T1596,Reconnaissance,TA0043,Enterprise
+977,T1596.001,Reconnaissance,TA0043,Enterprise
+978,T1596.002,Reconnaissance,TA0043,Enterprise
+979,T1596.003,Reconnaissance,TA0043,Enterprise
+980,T1596.004,Reconnaissance,TA0043,Enterprise
+981,T1596.005,Reconnaissance,TA0043,Enterprise
+982,T1597,Reconnaissance,TA0043,Enterprise
+983,T1597.001,Reconnaissance,TA0043,Enterprise
+984,T1597.002,Reconnaissance,TA0043,Enterprise
+985,T1598,Reconnaissance,TA0043,Enterprise
+986,T1598.001,Reconnaissance,TA0043,Enterprise
+987,T1598.002,Reconnaissance,TA0043,Enterprise
+988,T1598.003,Reconnaissance,TA0043,Enterprise
+989,T1598.004,Reconnaissance,TA0043,Enterprise
+990,T1599,Defense Evasion,TA0005,Enterprise
+991,T1599.001,Defense Evasion,TA0005,Enterprise
+992,T1600,Defense Evasion,TA0005,Enterprise
+993,T1600.001,Defense Evasion,TA0005,Enterprise
+994,T1600.002,Defense Evasion,TA0005,Enterprise
+995,T1601,Defense Evasion,TA0005,Enterprise
+996,T1601.001,Defense Evasion,TA0005,Enterprise
+997,T1601.002,Defense Evasion,TA0005,Enterprise
+998,T1602,Collection,TA0009,Enterprise
+999,T1602.001,Collection,TA0009,Enterprise
+1000,T1602.002,Collection,TA0009,Enterprise
+1001,T1606,Credential Access,TA0006,Enterprise
+1002,T1606.001,Credential Access,TA0006,Enterprise
+1003,T1606.002,Credential Access,TA0006,Enterprise
+1004,T1608,Resource Development,TA0042,Enterprise
+1005,T1608.001,Resource Development,TA0042,Enterprise
+1006,T1608.002,Resource Development,TA0042,Enterprise
+1007,T1608.003,Resource Development,TA0042,Enterprise
+1008,T1608.004,Resource Development,TA0042,Enterprise
+1009,T1608.005,Resource Development,TA0042,Enterprise
+1010,T1608.006,Resource Development,TA0042,Enterprise
+1011,T1609,Execution,TA0002,Enterprise
+1012,T1610,Execution,TA0002,Enterprise
+1013,T1610,Defense Evasion,TA0005,Enterprise
+1014,T1611,Privilege Escalation,TA0004,Enterprise
+1015,T1612,Defense Evasion,TA0005,Enterprise
+1016,T1613,Discovery,TA0007,Enterprise
+1017,T1614,Discovery,TA0007,Enterprise
+1018,T1614.001,Discovery,TA0007,Enterprise
+1019,T1615,Discovery,TA0007,Enterprise
+1020,T1619,Discovery,TA0007,Enterprise
+1021,T1620,Defense Evasion,TA0005,Enterprise
+1022,T1621,Credential Access,TA0006,Enterprise
+1023,T1622,Discovery,TA0007,Enterprise
+1024,T1622,Defense Evasion,TA0005,Enterprise
+1025,T1647,Defense Evasion,TA0005,Enterprise
+1026,T1648,Execution,TA0002,Enterprise
+1027,T1649,Credential Access,TA0006,Enterprise
+1028,T1650,Resource Development,TA0042,Enterprise
+1029,T1651,Execution,TA0002,Enterprise
+1030,T1652,Discovery,TA0007,Enterprise
+1031,T1653,Persistence,TA0003,Enterprise
+1032,T1654,Discovery,TA0007,Enterprise
+1033,T1656,Defense Evasion,TA0005,Enterprise
+1034,T1657,Impact,TA0040,Enterprise
+1035,T1659,Initial Access,TA0001,Enterprise
+1036,T1659,Command and Control,TA0011,Enterprise

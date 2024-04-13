@@ -1,0 +1,186 @@
+﻿Junction ID,Resiliency Approach Name,CSA ID
+1,Misdirection,
+2,Tainting,
+3,Evolvability,
+4,Trust-Based Privilege Management,CSA-01
+5,Attribute-Based Usage Restriction,CSA-01
+6,Dynamic Privileges,CSA-01
+7,Predefined Segmentation,CSA-01
+8,Dynamic Segmentation and Isolation,CSA-01
+9,Integrity Checks,CSA-01
+10,Behavior Validation,CSA-01
+11,Obfuscation,CSA-02
+12,Functional Relocation of Sensors,CSA-02
+13,Functional Relocation of Cyber Resources,CSA-02
+14,Asset Mobility,CSA-02
+15,Fragmentation,CSA-02
+16,Distributed Functionality,CSA-02
+17,Non-Persistent Information,CSA-02
+18,Non-Persistent Services,CSA-02
+19,Non-Persistent Connectivity,CSA-02
+20,Predefined Segmentation,CSA-02
+21,Dynamic Segmentation and Isolation,CSA-02
+22,Temporal Unpredictability,CSA-02
+23,Contextual Unpredictability,CSA-02
+24,Calibrated Defense-in-Depth,CSA-03
+25,Orchestration,CSA-03
+26,Obfuscation,CSA-03
+27,Functional Relocation of Cyber Resources,CSA-03
+28,Asset Mobility,CSA-03
+29,Distributed Functionality,CSA-03
+30,Non-Persistent Services,CSA-03
+31,Non-Persistent Connectivity,CSA-03
+32,Trust-Based Privilege Management,CSA-03
+33,Attribute-Based Usage Restriction,CSA-03
+34,Dynamic Privileges,CSA-03
+35,Offloading,CSA-03
+36,Surplus Capacity,CSA-03
+37,Replication,CSA-03
+38,Predefined Segmentation,CSA-03
+39,Integrity Checks,CSA-03
+40,Provenance Tracking,CSA-03
+41,Behavior Validation,CSA-03
+42,Self-Challenge,CSA-04
+43,Obfuscation,CSA-04
+44,Disinformation,CSA-04
+45,Functional Relocation of Cyber Resources,CSA-04
+46,Asset Mobility,CSA-04
+47,Fragmentation,CSA-04
+48,Distributed Functionality,CSA-04
+49,Non-Persistent Information,CSA-04
+50,Trust-Based Privilege Management,CSA-04
+51,Attribute-Based Usage Restriction,CSA-04
+52,Dynamic Privileges,CSA-04
+53,Predefined Segmentation,CSA-04
+54,Integrity Checks,CSA-04
+55,Dynamic Reconfiguration,CSA-05
+56,Dynamic Resource Allocation,CSA-05
+57,Adaptive Management,CSA-05
+58,Sensor Fusion and Analysis,CSA-05
+59,Dynamic Resource Awareness,CSA-05
+60,Dynamic Threat Awareness,CSA-05
+61,Mission Dependency and Status Visualization,CSA-05
+62,Calibrated Defense-in-Depth,CSA-05
+63,Orchestration,CSA-05
+64,Architectural Diversity,CSA-05
+65,Design Diversity,CSA-05
+66,Synthetic Diversity,CSA-05
+67,Path Diversity,CSA-05
+68,Functional Relocation of Cyber Resources,CSA-05
+69,Asset Mobility,CSA-05
+70,Distributed Functionality,CSA-05
+71,Non-Persistent Services,CSA-05
+72,Non-Persistent Connectivity,CSA-05
+73,Offloading,CSA-05
+74,Restriction,CSA-05
+75,Protected Backup and Restore,CSA-05
+76,Surplus Capacity,CSA-05
+77,Replication,CSA-05
+78,Predefined Segmentation,CSA-05
+79,Dynamic Segmentation and Isolation,CSA-05
+80,Temporal Unpredictability,CSA-05
+81,Monitoring and Damage Assessment,CSA-06
+82,Forensic and Behavioral Analysis,CSA-06
+83,Calibrated Defense-in-Depth,CSA-06
+84,Orchestration,CSA-06
+85,Self-Challenge,CSA-06
+86,Non-Persistent Information,CSA-06
+87,Non-Persistent Services,CSA-06
+88,Non-Persistent Connectivity,CSA-06
+89,Trust-Based Privilege Management,CSA-06
+90,Attribute-Based Usage Restriction,CSA-06
+91,Dynamic Privileges,CSA-06
+92,Purposing,CSA-06
+93,Offloading,CSA-06
+94,Restriction,CSA-06
+95,Replacement,CSA-06
+96,Specialization,CSA-06
+97,Predefined Segmentation,CSA-06
+98,Dynamic Segmentation and Isolation,CSA-06
+99,Integrity Checks,CSA-06
+100,Provenance Tracking,CSA-06
+101,Behavior Validation,CSA-06
+102,Monitoring and Damage Assessment,CSA-07
+103,Sensor Fusion and Analysis,CSA-07
+104,Forensic and Behavioral Analysis,CSA-07
+105,Dynamic Resource Awareness,CSA-07
+106,Dynamic Threat Awareness,CSA-07
+107,Mission Dependency and Status Visualization,CSA-07
+108,Dynamic Reconfiguration,CSA-08
+109,Dynamic Resource Allocation,CSA-08
+110,Adaptive Management,CSA-08
+111,Monitoring and Damage Assessment,CSA-08
+112,Sensor Fusion and Analysis,CSA-08
+113,Forensic and Behavioral Analysis,CSA-08
+114,Dynamic Resource Awareness,CSA-08
+115,Dynamic Threat Awareness,CSA-08
+116,Mission Dependency and Status Visualization,CSA-08
+117,Calibrated Defense-in-Depth,CSA-08
+118,Consistency Analysis,CSA-08
+119,Orchestration,CSA-08
+120,Self-Challenge,CSA-08
+121,Architectural Diversity,CSA-08
+122,Design Diversity,CSA-08
+123,Synthetic Diversity,CSA-08
+124,Information Diversity,CSA-08
+125,Path Diversity,CSA-08
+126,Supply Chain Diversity,CSA-08
+127,Trust-Based Privilege Management,CSA-08
+128,Attribute-Based Usage Restriction,CSA-08
+129,Dynamic Privileges,CSA-08
+130,Protected Backup and Restore,CSA-08
+131,Surplus Capacity,CSA-08
+132,Replication,CSA-08
+133,Predefined Segmentation,CSA-08
+134,Dynamic Segmentation and Isolation,CSA-08
+135,Integrity Checks,CSA-08
+136,Provenance Tracking,CSA-08
+137,Behavior Validation,CSA-08
+138,Dynamic Reconfiguration,CSA-09
+139,Adaptive Management,CSA-09
+140,Monitoring and Damage Assessment,CSA-09
+141,Forensic and Behavioral Analysis,CSA-09
+142,Dynamic Resource Awareness,CSA-09
+143,Dynamic Threat Awareness,CSA-09
+144,Mission Dependency and Status Visualization,CSA-09
+145,Orchestration,CSA-09
+146,Architectural Diversity,CSA-09
+147,Design Diversity,CSA-09
+148,Synthetic Diversity,CSA-09
+149,Path Diversity,CSA-09
+150,Functional Relocation of Sensors,CSA-09
+151,Functional Relocation of Cyber Resources,CSA-09
+152,Asset Mobility,CSA-09
+153,Distributed Functionality,CSA-09
+154,Trust-Based Privilege Management,CSA-09
+155,Attribute-Based Usage Restriction,CSA-09
+156,Protected Backup and Restore,CSA-09
+157,Surplus Capacity,CSA-09
+158,Replication,CSA-09
+159,Predefined Segmentation,CSA-09
+160,Dynamic Segmentation and Isolation,CSA-09
+161,Integrity Checks,CSA-09
+162,Provenance Tracking,CSA-09
+163,Behavior Validation,CSA-09
+164,Dynamic Reconfiguration,CSA-10
+165,Dynamic Resource Allocation,CSA-10
+166,Adaptive Management,CSA-10
+167,Monitoring and Damage Assessment,CSA-10
+168,Sensor Fusion and Analysis,CSA-10
+169,Forensic and Behavioral Analysis,CSA-10
+170,Dynamic Threat Awareness,CSA-10
+171,Mission Dependency and Status Visualization,CSA-10
+172,Calibrated Defense-in-Depth,CSA-10
+173,Orchestration,CSA-10
+174,Self-Challenge,CSA-10
+175,Architectural Diversity,CSA-10
+176,Design Diversity,CSA-10
+177,Path Diversity,CSA-10
+178,Trust-Based Privilege Management,CSA-10
+179,Attribute-Based Usage Restriction,CSA-10
+180,Dynamic Privileges,CSA-10
+181,Predefined Segmentation,CSA-10
+182,Dynamic Segmentation and Isolation,CSA-10
+183,Integrity Checks,CSA-10
+184,Provenance Tracking,CSA-10
+185,Behavior Validation,CSA-10

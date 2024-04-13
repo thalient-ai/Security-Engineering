@@ -1,0 +1,890 @@
+﻿Junction ID,ATT&CK Technique ID,ATT&CK Technique Category,ATT&CK Technique Name (from ATT&CK Technique ID),ATT&CK Mitigation ID
+1,T1001,Command and Control,Data Obfuscation,CM1153
+2,T1001,Collection,Data Obfuscation,CM2002
+3,T1001,Collection,Data Obfuscation,CM2041
+4,T1003,Credential Access,OS Credential Dumping,CM2004
+5,T1003,Credential Access,OS Credential Dumping,CM1107
+6,T1003,Credential Access,OS Credential Dumping,M1028
+7,T1003,Credential Access,OS Credential Dumping,M1025
+8,T1003,Credential Access,OS Credential Dumping,M1043
+9,T1003,Credential Access,OS Credential Dumping,CM2038
+10,T1003,Credential Access,OS Credential Dumping,CM1135
+11,T1005,Collection,Data from Local System,CM2015
+12,T1005,Collection,Data from Local System,CM1118
+13,T1005,Collection,Data from Local System,CM1135
+14,T1006,Defense Evasion,Direct Volume Access,CM2015
+15,T1006,Defense Evasion,Direct Volume Access,CM2029
+16,T1006,Defense Evasion,Direct Volume Access,CM1113
+17,T1007,Discovery,System Service Discovery,CM2015
+18,T1007,Discovery,System Service Discovery,CM1115
+19,T1008,Collection,Fallback Channels,CM1151
+20,T1008,Collection,Fallback Channels,CM2002
+21,T1008,Collection,Fallback Channels,CM2041
+22,T1008,Collection,Fallback Channels,CM1102
+23,T1008,Collection,Fallback Channels,CM1146
+24,T1010,Discovery,Application Window Discovery,CM2015
+25,T1010,Discovery,Application Window Discovery,CM2020
+26,T1011,Exfiltration,Exfiltration Over Other Network Medium,CM2035
+27,T1011,Exfiltration,Exfiltration Over Other Network Medium,CM2015
+28,T1011,Exfiltration,Exfiltration Over Other Network Medium,CM1127
+29,T1011,Exfiltration,Exfiltration Over Other Network Medium,CM1113
+30,T1011,Exfiltration,Exfiltration Over Other Network Medium,CM1112
+31,T1011,Exfiltration,Exfiltration Over Other Network Medium,CM1114
+32,T1012,Discovery,Query Registry,CM2015
+33,T1012,Discovery,Query Registry,CM1115
+34,T1012,Discovery,Query Registry,CM1101
+35,T1014,Defense Evasion,Rootkit,CM1164
+36,T1014,Defense Evasion,Rootkit,CM2044
+37,T1014,Defense Evasion,Rootkit,CM1102
+38,T1016,Discovery,System Network Configuration Discovery,CM2015
+39,T1016,Discovery,System Network Configuration Discovery,CM1101
+40,T1016,Discovery,System Network Configuration Discovery,CM2015
+41,T1018,Discovery,Remote System Discovery,CM2015
+42,T1018,Discovery,Remote System Discovery,CM1160
+43,T1018,Discovery,Remote System Discovery,CM1104
+44,T1020,Exfiltration,Automated Exfiltration,CM1153
+45,T1020,Exfiltration,Automated Exfiltration,CM2002
+46,T1020,Exfiltration,Automated Exfiltration,CM1107
+47,T1020,Exfiltration,Automated Exfiltration,CM2015
+48,T1020,Exfiltration,Automated Exfiltration,CM1113
+49,T1020,Exfiltration,Automated Exfiltration,CM1112
+50,T1020,Exfiltration,Automated Exfiltration,CM1114
+51,T1021,Lateral Movement,Remote Services,M1018
+52,T1021,Lateral Movement,Remote Services,CM2018
+53,T1021,Lateral Movement,Remote Services,CM1108
+54,T1021,Lateral Movement,Remote Services,CM1153
+55,T1021,Lateral Movement,Remote Services,CM1102
+56,T1025,Collection,Data from Removable Media,CM1121
+57,T1025,Collection,Data from Removable Media,CM2038
+58,T1025,Collection,Data from Removable Media,CM2020
+59,T1025,Collection,Data from Removable Media,CM1119
+60,T1027,Defense Evasion,Obfuscated Files or Information,CM1110
+61,T1027,Defense Evasion,Obfuscated Files or Information,CM2038
+62,T1027,Defense Evasion,Obfuscated Files or Information,CM1103
+63,T1029,Exfiltration,Scheduled Transfer,CM1153
+64,T1029,Exfiltration,Scheduled Transfer,CM2015
+65,T1029,Exfiltration,Scheduled Transfer,CM2042
+66,T1029,Exfiltration,Scheduled Transfer,CM1113
+67,T1029,Exfiltration,Scheduled Transfer,M1031
+68,T1029,Exfiltration,Scheduled Transfer,CM1112
+69,T1029,Exfiltration,Scheduled Transfer,CM1114
+70,T1030,Exfiltration,Data Transfer Size Limits,CM2042
+71,T1030,Exfiltration,Data Transfer Size Limits,CM2047
+72,T1030,Exfiltration,Data Transfer Size Limits,CM2041
+73,T1030,Exfiltration,Data Transfer Size Limits,CM1113
+74,T1030,Exfiltration,Data Transfer Size Limits,CM1112
+75,T1030,Exfiltration,Data Transfer Size Limits,CM1114
+76,T1033,Discovery,System Owner/User Discovery,CM1127
+77,T1033,Discovery,System Owner/User Discovery,CM2015
+78,T1033,Discovery,System Owner/User Discovery,CM1115
+79,T1033,Discovery,System Owner/User Discovery,CM1101
+80,T1036,Defense Evasion,Masquerading,M1038
+81,T1036,Defense Evasion,Masquerading,CM2033
+82,T1036,Defense Evasion,Masquerading,CM1102
+83,T1036,Defense Evasion,Masquerading,M1045
+84,T1037,Initial Access,Boot or Logon Initialization Scripts,CM2015
+85,T1037,Persistence,Boot or Logon Initialization Scripts,CM2015
+86,T1037,Persistence,Boot or Logon Initialization Scripts,CM2029
+87,T1037,Persistence,Boot or Logon Initialization Scripts,CM2044
+88,T1037,Privilege Escalation,Boot or Logon Initialization Scripts,CM2029
+89,T1037,Privilege Escalation,Boot or Logon Initialization Scripts,CM2044
+90,T1037,Initial Access,Boot or Logon Initialization Scripts,CM1115
+91,T1037,Persistence,Boot or Logon Initialization Scripts,CM1115
+92,T1037,Initial Access,Boot or Logon Initialization Scripts,CM1104
+93,T1037,Persistence,Boot or Logon Initialization Scripts,CM1104
+94,T1037,Privilege Escalation,Boot or Logon Initialization Scripts,CM2015
+95,T1037,Initial Access,Boot or Logon Initialization Scripts,CM1134
+96,T1037,Persistence,Boot or Logon Initialization Scripts,CM1134
+97,T1039,Collection,Data from Network Shared Drive,CM2015
+98,T1039,Collection,Data from Network Shared Drive,CM2033
+99,T1039,Collection,Data from Network Shared Drive,CM1135
+100,T1039,Collection,Data from Network Shared Drive,CM1101
+101,T1039,Collection,Data from Network Shared Drive,CM1118
+102,T1039,Collection,Data from Network Shared Drive,CM1127
+103,T1040,Credential Access,Network Sniffing,CM2017
+104,T1040,Credential Access,Network Sniffing,CM1126
+105,T1040,Discovery,Network Sniffing,CM1126
+106,T1040,Discovery,Network Sniffing,CM2002
+107,T1040,Discovery,Network Sniffing,M1041
+108,T1040,Discovery,Network Sniffing,CM1148
+109,T1040,Credential Access,Network Sniffing,CM1101
+110,T1040,Discovery,Network Sniffing,CM1127
+111,T1041,Exfiltration,Exfiltration Over C2 Channel,CM2042
+112,T1041,Exfiltration,Exfiltration Over C2 Channel,CM2047
+113,T1041,Exfiltration,Exfiltration Over C2 Channel,CM2041
+114,T1041,Exfiltration,Exfiltration Over C2 Channel,CM1127
+115,T1041,Exfiltration,Exfiltration Over C2 Channel,CM1113
+116,T1041,Exfiltration,Exfiltration Over C2 Channel,M1031
+117,T1041,Exfiltration,Exfiltration Over C2 Channel,CM1112
+118,T1041,Exfiltration,Exfiltration Over C2 Channel,CM1114
+119,T1046,Discovery,Network Service Discovery,M1030
+120,T1046,Discovery,Network Service Discovery,CM2002
+121,T1046,Discovery,Network Service Discovery,CM1104
+122,T1047,Initial Access,Windows Management Instrumentation,CM1131
+123,T1047,Initial Access,Windows Management Instrumentation,CM1164
+124,T1047,Initial Access,Windows Management Instrumentation,M1026
+125,T1047,Initial Access,Windows Management Instrumentation,CM2002
+126,T1047,Initial Access,Windows Management Instrumentation,CM2015
+127,T1048,Exfiltration,Exfiltration Over Alternative Protocol,CM2041
+128,T1048,Exfiltration,Exfiltration Over Alternative Protocol,CM2042
+129,T1048,Exfiltration,Exfiltration Over Alternative Protocol,M1030
+130,T1048,Exfiltration,Exfiltration Over Alternative Protocol,CM1113
+131,T1048,Exfiltration,Exfiltration Over Alternative Protocol,M1031
+132,T1048,Exfiltration,Exfiltration Over Alternative Protocol,CM1112
+133,T1048,Exfiltration,Exfiltration Over Alternative Protocol,CM1114
+134,T1049,Discovery,System Network Connections Discovery,CM2015
+135,T1049,Discovery,System Network Connections Discovery,CM1160
+136,T1052,Exfiltration,Exfiltration Over Physical Medium,M1042
+137,T1052,Exfiltration,Exfiltration Over Physical Medium,CM2008
+138,T1052,Exfiltration,Exfiltration Over Physical Medium,CM2007
+139,T1052,Exfiltration,Exfiltration Over Physical Medium,CM1113
+140,T1052,Exfiltration,Exfiltration Over Physical Medium,CM1112
+141,T1052,Exfiltration,Exfiltration Over Physical Medium,CM1114
+142,T1053,Initial Access,Scheduled Task/Job,CM2004
+143,T1053,Initial Access,Scheduled Task/Job,CM2035
+144,T1053,Persistence,Scheduled Task/Job,CM2004
+145,T1053,Persistence,Scheduled Task/Job,CM2035
+146,T1053,Privilege Escalation,Scheduled Task/Job,CM2004
+147,T1053,Privilege Escalation,Scheduled Task/Job,CM2035
+148,T1053,Initial Access,Scheduled Task/Job,M1047
+149,T1053,Persistence,Scheduled Task/Job,M1047
+150,T1053,Privilege Escalation,Scheduled Task/Job,M1047
+151,T1053,Initial Access,Scheduled Task/Job,CM1104
+152,T1053,Persistence,Scheduled Task/Job,CM1104
+153,T1053,Privilege Escalation,Scheduled Task/Job,CM1104
+154,T1055,Privilege Escalation,Process Injection,M1026
+155,T1055,Defense Evasion,Process Injection,M1026
+156,T1055,Privilege Escalation,Process Injection,CM2007
+157,T1055,Privilege Escalation,Process Injection,CM2014
+158,T1055,Defense Evasion,Process Injection,CM2007
+159,T1055,Defense Evasion,Process Injection,CM2014
+160,T1055,Privilege Escalation,Process Injection,CM1150
+161,T1055,Defense Evasion,Process Injection,CM1150
+162,T1055,Defense Evasion,Process Injection,CM1152
+163,T1056,Credential Access,Input Capture,CM2005
+164,T1056,Collection,Input Capture,CM2005
+165,T1056,Credential Access,Input Capture,CM2033
+166,T1056,Collection,Input Capture,CM2033
+167,T1056,Credential Access,Input Capture,CM1120
+168,T1056,Collection,Input Capture,CM1120
+169,T1056,Credential Access,Input Capture,CM1101
+170,T1056,Collection,Input Capture,CM1101
+171,T1057,Discovery,Process Discovery,CM2015
+172,T1057,Discovery,Process Discovery,CM1115
+173,T1059,Initial Access,Command and Scripting Interpreter,CM1131
+174,T1059,Initial Access,Command and Scripting Interpreter,M1042
+175,T1059,Initial Access,Command and Scripting Interpreter,M1038
+176,T1059,Initial Access,Command and Scripting Interpreter,CM1132
+177,T1059,Initial Access,Command and Scripting Interpreter,CM2029
+178,T1059,Initial Access,Command and Scripting Interpreter,CM2038
+179,T1059,Initial Access,Command and Scripting Interpreter,CM1119
+180,T1059,Initial Access,Command and Scripting Interpreter,M1045
+181,T1068,Privilege Escalation,Exploitation for Privilege Escalation,CM2003
+182,T1068,Privilege Escalation,Exploitation for Privilege Escalation,M1050
+183,T1068,Privilege Escalation,Exploitation for Privilege Escalation,M1048
+184,T1068,Privilege Escalation,Exploitation for Privilege Escalation,M1019
+185,T1068,Privilege Escalation,Exploitation for Privilege Escalation,CM1101
+186,T1068,Privilege Escalation,Exploitation for Privilege Escalation,CM1134
+187,T1069,Discovery,Permission Groups Discovery,CM2015
+188,T1069,Discovery,Permission Groups Discovery,CM1101
+189,T1070,Defense Evasion,Indicator Removal,CM1158
+190,T1070,Defense Evasion,Indicator Removal,M1029
+191,T1070,Defense Evasion,Indicator Removal,M1041
+192,T1070,Defense Evasion,Indicator Removal,M1022
+193,T1070,Defense Evasion,Indicator Removal,CM2033
+194,T1070,Defense Evasion,Indicator Removal,CM1104
+195,T1071,Command and Control,Application Layer Protocol,CM1151
+196,T1071,Command and Control,Application Layer Protocol,CM1153
+197,T1071,Command and Control,Application Layer Protocol,CM1133
+198,T1071,Command and Control,Application Layer Protocol,CM2002
+199,T1071,Command and Control,Application Layer Protocol,CM2041
+200,T1072,Initial Access,Software Deployment Tools,CM1131
+201,T1072,Lateral Movement,Software Deployment Tools,CM1131
+202,T1072,Initial Access,Software Deployment Tools,M1029
+203,T1072,Lateral Movement,Software Deployment Tools,M1029
+204,T1072,Initial Access,Software Deployment Tools,M1026
+205,T1072,Initial Access,Software Deployment Tools,M1018
+206,T1072,Lateral Movement,Software Deployment Tools,M1018
+207,T1072,Initial Access,Software Deployment Tools,CM2018
+208,T1072,Lateral Movement,Software Deployment Tools,CM2018
+209,T1072,Initial Access,Software Deployment Tools,CM1133
+210,T1072,Lateral Movement,Software Deployment Tools,CM1133
+211,T1072,Initial Access,Software Deployment Tools,CM2012
+212,T1072,Lateral Movement,Software Deployment Tools,CM2012
+213,T1072,Initial Access,Software Deployment Tools,CM1134
+214,T1072,Lateral Movement,Software Deployment Tools,CM1134
+215,T1074,Collection,Data Staged,CM2015
+216,T1074,Collection,Data Staged,CM2033
+217,T1074,Collection,Data Staged,CM2038
+218,T1074,Collection,Data Staged,CM2020
+219,T1074,Collection,Data Staged,CM1116
+220,T1074,Collection,Data Staged,CM1112
+221,T1078,Initial Access,Valid Accounts,M1026
+222,T1078,Persistence,Valid Accounts,M1026
+223,T1078,Privilege Escalation,Valid Accounts,M1026
+224,T1078,Defense Evasion,Valid Accounts,M1026
+225,T1078,Initial Access,Valid Accounts,CM2013
+226,T1078,Persistence,Valid Accounts,CM2013
+227,T1078,Defense Evasion,Valid Accounts,CM2013
+228,T1078,Initial Access,Valid Accounts,CM1101
+229,T1078,Persistence,Valid Accounts,CM1101
+230,T1078,Privilege Escalation,Valid Accounts,CM1101
+231,T1078,Defense Evasion,Valid Accounts,CM1101
+232,T1080,Lateral Movement,Taint Shared Content,CM1131
+233,T1080,Lateral Movement,Taint Shared Content,CM2035
+234,T1080,Lateral Movement,Taint Shared Content,CM2015
+235,T1080,Lateral Movement,Taint Shared Content,CM1137
+236,T1082,Discovery,System Information Discovery,CM2015
+237,T1082,Discovery,System Information Discovery,CM1101
+238,T1083,Discovery,File and Directory Discovery,CM2015
+239,T1083,Discovery,File and Directory Discovery,CM2020
+240,T1083,Discovery,File and Directory Discovery,CM1115
+241,T1083,Discovery,File and Directory Discovery,CM1104
+242,T1083,Discovery,File and Directory Discovery,CM1116
+243,T1087,Discovery,Account Discovery,CM2015
+244,T1087,Discovery,Account Discovery,CM2020
+245,T1087,Discovery,Account Discovery,CM1101
+246,T1090,Command and Control,Proxy,CM1151
+247,T1090,Command and Control,Proxy,CM1153
+248,T1090,Command and Control,Proxy,M1020
+249,T1090,Command and Control,Proxy,CM2002
+250,T1090,Command and Control,Proxy,CM2041
+251,T1091,Initial Access,Replication Through Removable Media,M1042
+252,T1091,Lateral Movement,Replication Through Removable Media,M1042
+253,T1091,Initial Access,Replication Through Removable Media,CM2008
+254,T1091,Lateral Movement,Replication Through Removable Media,CM2008
+255,T1091,Initial Access,Replication Through Removable Media,CM1109
+256,T1091,Lateral Movement,Replication Through Removable Media,CM1109
+257,T1092,Command and Control,Communication Through Removable Media,M1028
+258,T1092,Command and Control,Communication Through Removable Media,M1042
+259,T1092,Command and Control,Communication Through Removable Media,CM2008
+260,T1092,Command and Control,Communication Through Removable Media,CM1109
+261,T1095,Command and Control,Non-Application Layer Protocol,CM1151
+262,T1095,Command and Control,Non-Application Layer Protocol,CM1153
+263,T1095,Command and Control,Non-Application Layer Protocol,CM2002
+264,T1095,Command and Control,Non-Application Layer Protocol,CM2041
+265,T1095,Collection,Non-Application Layer Protocol,M1030
+266,T1095,Command and Control,Non-Application Layer Protocol,M1030
+267,T1098,Persistence,Account Manipulation,CM2021
+268,T1098,Persistence,Account Manipulation,M1030
+269,T1098,Persistence,Account Manipulation,M1026
+270,T1098,Persistence,Account Manipulation,CM2018
+271,T1098,Persistence,Account Manipulation,CM1126
+272,T1098,Persistence,Account Manipulation,CM1101
+273,T1102,Command and Control,Web Service,CM2018
+274,T1102,Command and Control,Web Service,CM2042
+275,T1102,Command and Control,Web Service,CM1104
+276,T1104,Collection,Multi-Stage Channels,CM1151
+277,T1104,Collection,Multi-Stage Channels,CM1153
+278,T1104,Collection,Multi-Stage Channels,CM2018
+279,T1104,Collection,Multi-Stage Channels,CM1146
+280,T1105,Collection,Ingress Tool Transfer,CM1151
+281,T1105,Collection,Ingress Tool Transfer,CM2015
+282,T1105,Collection,Ingress Tool Transfer,CM2002
+283,T1105,Collection,Ingress Tool Transfer,CM2033
+284,T1105,Collection,Ingress Tool Transfer,CM2041
+285,T1106,Initial Access,Native API,CM1131
+286,T1106,Initial Access,Native API,M1038
+287,T1106,Initial Access,Native API,CM2022
+288,T1110,Credential Access,Brute Force,CM2004
+289,T1110,Credential Access,Brute Force,CM1129
+290,T1110,Credential Access,Brute Force,CM1126
+291,T1110,Credential Access,Brute Force,CM1128
+292,T1110,Credential Access,Brute Force,CM1101
+293,T1111,Credential Access,Multi-Factor Authentication Interception,CM2004
+294,T1112,Defense Evasion,Modify Registry,CM2044
+295,T1112,Defense Evasion,Modify Registry,CM2015
+296,T1112,Defense Evasion,Modify Registry,CM1102
+297,T1113,Collection,Screen Capture,CM2005
+298,T1113,Collection,Screen Capture,CM2020
+299,T1114,Collection,Email Collection,M1047
+300,T1114,Collection,Email Collection,CM1126
+301,T1114,Collection,Email Collection,CM2034
+302,T1114,Collection,Email Collection,CM2015
+303,T1114,Collection,Email Collection,CM2038
+304,T1114,Collection,Email Collection,CM2020
+305,T1114,Collection,Email Collection,CM2002
+306,T1114,Collection,Email Collection,M1041
+307,T1114,Collection,Email Collection,CM1101
+308,T1115,Collection,Clipboard Data,CM2018
+309,T1119,Collection,Automated Collection,CM1157
+310,T1119,Collection,Automated Collection,M1029
+311,T1119,Collection,Automated Collection,CM2015
+312,T1119,Collection,Automated Collection,M1041
+313,T1119,Collection,Automated Collection,CM1116
+314,T1119,Collection,Automated Collection,CM1101
+315,T1119,Collection,Automated Collection,CM1114
+316,T1120,Discovery,Peripheral Device Discovery,CM2015
+317,T1120,Discovery,Peripheral Device Discovery,CM1160
+318,T1120,Discovery,Peripheral Device Discovery,CM1115
+319,T1123,Collection,Audio Capture,CM1121
+320,T1123,Collection,Audio Capture,CM2015
+321,T1124,Discovery,System Time Discovery,CM2038
+322,T1125,Collection,Video Capture,CM1121
+323,T1125,Collection,Video Capture,CM2005
+324,T1125,Collection,Video Capture,CM2020
+325,T1125,Collection,Video Capture,CM1120
+326,T1127,Defense Evasion,Trusted Developer Utilities Proxy Execution,M1042
+327,T1127,Defense Evasion,Trusted Developer Utilities Proxy Execution,M1038
+328,T1127,Defense Evasion,Trusted Developer Utilities Proxy Execution,CM2015
+329,T1129,Initial Access,Shared Modules,CM1111
+330,T1129,Initial Access,Shared Modules,CM1131
+331,T1129,Initial Access,Shared Modules,M1038
+332,T1129,Initial Access,Shared Modules,CM2022
+333,T1132,Command and Control,Data Encoding,CM2002
+334,T1132,Command and Control,Data Encoding,CM2041
+335,T1133,Initial Access,External Remote Services,M1030
+336,T1133,Persistence,External Remote Services,M1030
+337,T1133,Initial Access,External Remote Services,M1042
+338,T1133,Persistence,External Remote Services,M1042
+339,T1133,Initial Access,External Remote Services,CM1126
+340,T1133,Persistence,External Remote Services,CM1126
+341,T1133,Initial Access,External Remote Services,CM1127
+342,T1133,Persistence,External Remote Services,CM1127
+343,T1133,Initial Access,External Remote Services,CM1124
+344,T1133,Persistence,External Remote Services,CM1124
+345,T1133,Initial Access,External Remote Services,CM2005
+346,T1133,Persistence,External Remote Services,CM2005
+347,T1134,Privilege Escalation,Access Token Manipulation,CM1126
+348,T1134,Privilege Escalation,Access Token Manipulation,CM2038
+349,T1134,Privilege Escalation,Access Token Manipulation,CM2014
+350,T1134,Defense Evasion,Access Token Manipulation,CM2038
+351,T1134,Defense Evasion,Access Token Manipulation,CM2014
+352,T1134,Privilege Escalation,Access Token Manipulation,CM1118
+353,T1134,Defense Evasion,Access Token Manipulation,CM1118
+354,T1134,Privilege Escalation,Access Token Manipulation,CM1137
+355,T1134,Defense Evasion,Access Token Manipulation,CM1137
+356,T1134,Privilege Escalation,Access Token Manipulation,CM1113
+357,T1134,Defense Evasion,Access Token Manipulation,CM1113
+358,T1135,Discovery,Network Share Discovery,CM2015
+359,T1135,Discovery,Network Share Discovery,CM2020
+360,T1135,Discovery,Network Share Discovery,CM1160
+361,T1135,Discovery,Network Share Discovery,CM1104
+362,T1136,Persistence,Create Account,CM1129
+363,T1136,Persistence,Create Account,CM2015
+364,T1137,Persistence,Office Application Startup,CM2004
+365,T1137,Persistence,Office Application Startup,CM2020
+366,T1137,Persistence,Office Application Startup,CM2033
+367,T1137,Persistence,Office Application Startup,CM1134
+368,T1140,Defense Evasion,Deobfuscate/Decode Files or Information,CM1110
+369,T1140,Defense Evasion,Deobfuscate/Decode Files or Information,CM2022
+370,T1176,Persistence,Browser Extensions,M1047
+371,T1176,Persistence,Browser Extensions,CM2020
+372,T1176,Persistence,Browser Extensions,CM2015
+373,T1176,Persistence,Browser Extensions,CM1123
+374,T1185,Collection,Browser Session Hijacking,CM1121
+375,T1185,Collection,Browser Session Hijacking,M1018
+376,T1185,Collection,Browser Session Hijacking,CM2020
+377,T1187,Credential Access,Forced Authentication,CM2002
+378,T1187,Credential Access,Forced Authentication,CM2003
+379,T1189,Initial Access,Drive-by Compromise,CM2003
+380,T1189,Initial Access,Drive-by Compromise,M1050
+381,T1189,Initial Access,Drive-by Compromise,M1048
+382,T1189,Initial Access,Drive-by Compromise,CM2002
+383,T1189,Initial Access,Drive-by Compromise,CM1123
+384,T1190,Initial Access,Exploit Public-Facing Application,M1048
+385,T1190,Initial Access,Exploit Public-Facing Application,M1026
+386,T1190,Initial Access,Exploit Public-Facing Application,CM2004
+387,T1190,Initial Access,Exploit Public-Facing Application,CM1107
+388,T1190,Initial Access,Exploit Public-Facing Application,CM1102
+389,T1190,Initial Access,Exploit Public-Facing Application,CM1101
+390,T1195,Initial Access,Supply Chain Compromise,CM2009
+391,T1195,Initial Access,Supply Chain Compromise,CM1106
+392,T1195,Initial Access,Supply Chain Compromise,M1016
+393,T1195,Initial Access,Supply Chain Compromise,CM1105
+394,T1195,Initial Access,Supply Chain Compromise,CM2010
+395,T1195,Initial Access,Supply Chain Compromise,CM2011
+396,T1197,Persistence,BITS Jobs,CM2020
+397,T1197,Defense Evasion,BITS Jobs,CM2020
+398,T1197,Persistence,BITS Jobs,CM1102
+399,T1197,Defense Evasion,BITS Jobs,CM1102
+400,T1199,Initial Access,Trusted Relationship,CM2012
+401,T1199,Initial Access,Trusted Relationship,M1030
+402,T1200,Initial Access,Hardware Additions,M1035
+403,T1200,Initial Access,Hardware Additions,M1034
+404,T1200,Initial Access,Hardware Additions,CM2007
+405,T1200,Initial Access,Hardware Additions,CM1125
+406,T1200,Initial Access,Hardware Additions,CM1101
+407,T1201,Discovery,Password Policy Discovery,CM2015
+408,T1202,Defense Evasion,Indirect Command Execution,CM2005
+409,T1202,Defense Evasion,Indirect Command Execution,CM1102
+410,T1203,Initial Access,Exploitation for Client Execution,CM2003
+411,T1203,Initial Access,Exploitation for Client Execution,CM1131
+412,T1203,Initial Access,Exploitation for Client Execution,M1048
+413,T1203,Initial Access,Exploitation for Client Execution,CM2019
+414,T1203,Initial Access,Exploitation for Client Execution,CM1103
+415,T1204,Initial Access,User Execution,M1021
+416,T1204,Initial Access,User Execution,CM1119
+417,T1204,Initial Access,User Execution,CM2020
+418,T1204,Initial Access,User Execution,CM1136
+419,T1205,Persistence,Traffic Signaling,CM2002
+420,T1205,Defense Evasion,Traffic Signaling,CM2002
+421,T1205,Command and Control,Traffic Signaling,CM2002
+422,T1205,Initial Access,Traffic Signaling,CM1127
+423,T1205,Persistence,Traffic Signaling,CM1127
+424,T1205,Defense Evasion,Traffic Signaling,CM1127
+425,T1205,Command and Control,Traffic Signaling,CM1127
+426,T1205,Initial Access,Traffic Signaling,CM1104
+427,T1205,Command and Control,Traffic Signaling,CM1104
+428,T1207,Defense Evasion,Rogue Domain Controller,CM2002
+429,T1207,Defense Evasion,Rogue Domain Controller,CM1130
+430,T1210,Lateral Movement,Exploitation of Remote Services,CM2003
+431,T1210,Lateral Movement,Exploitation of Remote Services,M1030
+432,T1210,Lateral Movement,Exploitation of Remote Services,M1050
+433,T1210,Lateral Movement,Exploitation of Remote Services,M1048
+434,T1210,Lateral Movement,Exploitation of Remote Services,M1042
+435,T1210,Lateral Movement,Exploitation of Remote Services,CM2047
+436,T1210,Lateral Movement,Exploitation of Remote Services,M1019
+437,T1210,Lateral Movement,Exploitation of Remote Services,CM1102
+438,T1211,Defense Evasion,Exploitation for Defense Evasion,CM1131
+439,T1211,Defense Evasion,Exploitation for Defense Evasion,M1050
+440,T1211,Defense Evasion,Exploitation for Defense Evasion,M1048
+441,T1211,Defense Evasion,Exploitation for Defense Evasion,M1019
+442,T1212,Credential Access,Exploitation for Credential Access,CM2003
+443,T1212,Credential Access,Exploitation for Credential Access,M1050
+444,T1212,Credential Access,Exploitation for Credential Access,M1048
+445,T1212,Credential Access,Exploitation for Credential Access,M1019
+446,T1213,Collection,Data from Information Repositories,CM1117
+447,T1213,Collection,Data from Information Repositories,CM2021
+448,T1213,Collection,Data from Information Repositories,M1047
+449,T1213,Collection,Data from Information Repositories,CM2017
+450,T1213,Collection,Data from Information Repositories,CM1101
+451,T1213,Collection,Data from Information Repositories,CM1124
+452,T1213,Collection,Data from Information Repositories,CM1135
+453,T1213,Collection,Data from Information Repositories,CM1107
+454,T1213,Collection,Data from Information Repositories,CM1114
+455,T1216,Defense Evasion,System Script Proxy Execution,CM1131
+456,T1216,Defense Evasion,System Script Proxy Execution,CM1132
+457,T1216,Defense Evasion,System Script Proxy Execution,CM2029
+458,T1216,Defense Evasion,System Script Proxy Execution,CM2038
+459,T1216,Defense Evasion,System Script Proxy Execution,CM1119
+460,T1216,Defense Evasion,System Script Proxy Execution,CM2015
+461,T1217,Discovery,Browser Information Discovery,CM2015
+462,T1217,Discovery,Browser Information Discovery,CM2020
+463,T1218,Defense Evasion,System Binary Proxy Execution,CM1131
+464,T1218,Defense Evasion,System Binary Proxy Execution,M1026
+465,T1218,Defense Evasion,System Binary Proxy Execution,M1042
+466,T1218,Defense Evasion,System Binary Proxy Execution,CM1132
+467,T1218,Defense Evasion,System Binary Proxy Execution,CM2020
+468,T1218,Defense Evasion,System Binary Proxy Execution,CM1119
+469,T1218,Defense Evasion,System Binary Proxy Execution,CM2015
+470,T1219,Command and Control,Remote Access Software,CM2002
+471,T1219,Command and Control,Remote Access Software,CM2041
+472,T1219,Command and Control,Remote Access Software,CM1115
+473,T1219,Command and Control,Remote Access Software,CM1104
+474,T1220,Defense Evasion,XSL Script Processing,CM1132
+475,T1220,Defense Evasion,XSL Script Processing,CM2015
+476,T1220,Defense Evasion,XSL Script Processing,CM1119
+477,T1221,Initial Access,Template Injection,M1042
+478,T1221,Initial Access,Template Injection,CM2020
+479,T1221,Initial Access,Template Injection,CM1104
+480,T1221,Initial Access,Template Injection,M1049
+481,T1221,Initial Access,Template Injection,M1031
+482,T1222,Defense Evasion,File and Directory Permissions Modification,CM2005
+483,T1222,Defense Evasion,File and Directory Permissions Modification,M1026
+484,T1222,Defense Evasion,File and Directory Permissions Modification,CM1101
+485,T1480,Defense Evasion,Execution Guardrails,CM1131
+486,T1482,Discovery,Domain Trust Discovery,M1030
+487,T1482,Discovery,Domain Trust Discovery,M1047
+488,T1482,Discovery,Domain Trust Discovery,CM2015
+489,T1482,Discovery,Domain Trust Discovery,CM2020
+490,T1482,Discovery,Domain Trust Discovery,CM1101
+491,T1484,Privilege Escalation,Domain Policy Modification,CM2005
+492,T1484,Defense Evasion,Domain Policy Modification,CM2005
+493,T1484,Privilege Escalation,Domain Policy Modification,CM1149
+494,T1484,Defense Evasion,Domain Policy Modification,CM1149
+495,T1484,Privilege Escalation,Domain Policy Modification,M1018
+496,T1484,Defense Evasion,Domain Policy Modification,M1018
+497,T1484,Privilege Escalation,Domain Policy Modification,M1047
+498,T1484,Defense Evasion,Domain Policy Modification,M1047
+499,T1484,Privilege Escalation,Domain Policy Modification,CM1104
+500,T1484,Defense Evasion,Domain Policy Modification,CM1104
+501,T1485,Impact,Data Destruction,CM1142
+502,T1485,Impact,Data Destruction,CM1139
+503,T1485,Impact,Data Destruction,CM1122
+504,T1485,Impact,Data Destruction,M1053
+505,T1485,Impact,Data Destruction,CM1138
+506,T1485,Impact,Data Destruction,CM1141
+507,T1485,Impact,Data Destruction,CM2015
+508,T1485,Impact,Data Destruction,CM1130
+509,T1485,Impact,Data Destruction,CM1116
+510,T1486,Impact,Data Encrypted for Impact,CM1142
+511,T1486,Impact,Data Encrypted for Impact,CM1139
+512,T1486,Impact,Data Encrypted for Impact,CM1122
+513,T1486,Impact,Data Encrypted for Impact,M1053
+514,T1486,Impact,Data Encrypted for Impact,CM1138
+515,T1486,Impact,Data Encrypted for Impact,CM1141
+516,T1486,Impact,Data Encrypted for Impact,CM2015
+517,T1486,Impact,Data Encrypted for Impact,CM1104
+518,T1486,Impact,Data Encrypted for Impact,CM1116
+519,T1486,Impact,Data Encrypted for Impact,CM1114
+520,T1489,Impact,Service Stop,CM1122
+521,T1489,Impact,Service Stop,CM2015
+522,T1489,Impact,Service Stop,CM2044
+523,T1489,Impact,Service Stop,M1030
+524,T1490,Impact,Inhibit System Recovery,CM1145
+525,T1490,Impact,Inhibit System Recovery,CM1143
+526,T1490,Impact,Inhibit System Recovery,CM1144
+527,T1490,Impact,Inhibit System Recovery,CM1122
+528,T1490,Impact,Inhibit System Recovery,M1053
+529,T1490,Impact,Inhibit System Recovery,CM2015
+530,T1490,Impact,Inhibit System Recovery,CM2033
+531,T1491,Impact,Defacement,M1053
+532,T1491,Impact,Defacement,CM2015
+533,T1491,Impact,Defacement,CM1130
+534,T1491,Impact,Defacement,CM1104
+535,T1491,Impact,Defacement,CM1116
+536,T1495,Impact,Firmware Corruption,CM1145
+537,T1495,Impact,Firmware Corruption,M1026
+538,T1495,Impact,Firmware Corruption,CM1143
+539,T1495,Impact,Firmware Corruption,CM1144
+540,T1495,Impact,Firmware Corruption,CM1154
+541,T1495,Impact,Firmware Corruption,M1046
+542,T1496,Impact,Resource Hijacking,CM1121
+543,T1496,Impact,Resource Hijacking,CM1139
+544,T1496,Impact,Resource Hijacking,CM2044
+545,T1496,Impact,Resource Hijacking,CM2047
+546,T1497,Defense Evasion,Virtualization/Sandbox Evasion,CM1102
+547,T1497,Discovery,Virtualization/Sandbox Evasion,CM1102
+548,T1497,Defense Evasion,Virtualization/Sandbox Evasion,CM1123
+549,T1497,Discovery,Virtualization/Sandbox Evasion,CM1123
+550,T1498,Impact,Network Denial of Service,M1037
+551,T1498,Impact,Network Denial of Service,CM1108
+552,T1498,Impact,Network Denial of Service,CM2047
+553,T1498,Impact,Network Denial of Service,CM1147
+554,T1498,Impact,Network Denial of Service,CM1143
+555,T1499,Impact,Endpoint Denial of Service,M1037
+556,T1499,Impact,Endpoint Denial of Service,CM1108
+557,T1499,Impact,Endpoint Denial of Service,CM1122
+558,T1499,Impact,Endpoint Denial of Service,CM2047
+559,T1499,Impact,Endpoint Denial of Service,CM1118
+560,T1499,Impact,Endpoint Denial of Service,CM1147
+561,T1499,Impact,Endpoint Denial of Service,CM1102
+562,T1505,Persistence,Server Software Component,CM2005
+563,T1505,Persistence,Server Software Component,CM2015
+564,T1505,Persistence,Server Software Component,M1047
+565,T1505,Persistence,Server Software Component,M1045
+566,T1518,Discovery,Software Discovery,CM2015
+567,T1518,Discovery,Software Discovery,CM1115
+568,T1525,Persistence,Implant Internal Image,CM2021
+569,T1525,Persistence,Implant Internal Image,CM2033
+570,T1525,Persistence,Implant Internal Image,M1047
+571,T1525,Persistence,Implant Internal Image,M1045
+572,T1525,Persistence,Implant Internal Image,CM1134
+573,T1526,Discovery,Cloud Service Discovery,CM2020
+574,T1526,Discovery,Cloud Service Discovery,CM1104
+575,T1526,Discovery,Cloud Service Discovery,CM1101
+576,T1528,Credential Access,Steal Application Access Token,M1021
+577,T1528,Credential Access,Steal Application Access Token,CM1159
+578,T1528,Credential Access,Steal Application Access Token,CM2048
+579,T1529,Impact,System Shutdown/Reboot,CM1143
+580,T1529,Impact,System Shutdown/Reboot,CM1122
+581,T1529,Impact,System Shutdown/Reboot,CM2015
+582,T1529,Impact,System Shutdown/Reboot,CM1104
+583,T1530,Collection,Data from Cloud Storage,CM2016
+584,T1530,Collection,Data from Cloud Storage,CM1126
+585,T1530,Collection,Data from Cloud Storage,M1041
+586,T1531,Impact,Account Access Removal,CM1117
+587,T1531,Impact,Account Access Removal,CM1140
+588,T1531,Impact,Account Access Removal,CM2015
+589,T1534,Lateral Movement,Internal Spearphishing,CM1159
+590,T1534,Lateral Movement,Internal Spearphishing,CM2020
+591,T1534,Lateral Movement,Internal Spearphishing,CM1101
+592,T1535,Defense Evasion,Unused/Unsupported Cloud Regions,M1054
+593,T1535,Defense Evasion,Unused/Unsupported Cloud Regions,CM2004
+594,T1537,Exfiltration,Transfer Data to Cloud Account,CM2016
+595,T1537,Exfiltration,Transfer Data to Cloud Account,CM1113
+596,T1537,Exfiltration,Transfer Data to Cloud Account,CM1112
+597,T1537,Exfiltration,Transfer Data to Cloud Account,CM1114
+598,T1538,Discovery,Cloud Service Dashboard,M1018
+599,T1538,Discovery,Cloud Service Dashboard,CM2004
+600,T1539,Credential Access,Steal Web Session Cookie,M1054
+601,T1539,Credential Access,Steal Web Session Cookie,CM1124
+602,T1542,Persistence,Pre-OS Boot,CM2019
+603,T1542,Defense Evasion,Pre-OS Boot,CM2019
+604,T1542,Persistence,Pre-OS Boot,CM2022
+605,T1542,Persistence,Pre-OS Boot,CM1154
+606,T1542,Defense Evasion,Pre-OS Boot,CM1154
+607,T1542,Persistence,Pre-OS Boot,M1046
+608,T1542,Defense Evasion,Pre-OS Boot,M1046
+609,T1542,Persistence,Pre-OS Boot,CM1134
+610,T1542,Defense Evasion,Pre-OS Boot,CM1134
+611,T1543,Persistence,Create or Modify System Process,M1047
+612,T1543,Privilege Escalation,Create or Modify System Process,M1047
+613,T1543,Persistence,Create or Modify System Process,CM1104
+614,T1543,Privilege Escalation,Create or Modify System Process,CM1104
+615,T1543,Persistence,Create or Modify System Process,CM2009
+616,T1543,Privilege Escalation,Create or Modify System Process,CM2009
+617,T1543,Persistence,Create or Modify System Process,CM1134
+618,T1543,Privilege Escalation,Create or Modify System Process,CM1134
+619,T1546,Persistence,Event Triggered Execution,CM2035
+620,T1546,Privilege Escalation,Event Triggered Execution,CM2035
+621,T1546,Persistence,Event Triggered Execution,CM2015
+622,T1546,Privilege Escalation,Event Triggered Execution,CM2015
+623,T1546,Persistence,Event Triggered Execution,CM1104
+624,T1546,Privilege Escalation,Event Triggered Execution,CM1104
+625,T1546,Persistence,Event Triggered Execution,CM2009
+626,T1546,Privilege Escalation,Event Triggered Execution,CM2009
+627,T1546,Persistence,Event Triggered Execution,CM1134
+628,T1546,Privilege Escalation,Event Triggered Execution,CM1134
+629,T1547,Initial Access,Boot or Logon Autostart Execution,CM2044
+630,T1547,Persistence,Boot or Logon Autostart Execution,CM2044
+631,T1547,Initial Access,Boot or Logon Autostart Execution,CM1102
+632,T1547,Persistence,Boot or Logon Autostart Execution,CM1102
+633,T1547,Initial Access,Boot or Logon Autostart Execution,CM1115
+634,T1547,Persistence,Boot or Logon Autostart Execution,CM1115
+635,T1547,Initial Access,Boot or Logon Autostart Execution,CM1104
+636,T1547,Persistence,Boot or Logon Autostart Execution,CM1104
+637,T1547,Privilege Escalation,Boot or Logon Autostart Execution,CM1102
+638,T1547,Initial Access,Boot or Logon Autostart Execution,CM1134
+639,T1547,Persistence,Boot or Logon Autostart Execution,CM1134
+640,T1548,Privilege Escalation,Abuse Elevation Control Mechanism,CM2005
+641,T1548,Defense Evasion,Abuse Elevation Control Mechanism,CM2005
+642,T1548,Privilege Escalation,Abuse Elevation Control Mechanism,M1047
+643,T1548,Defense Evasion,Abuse Elevation Control Mechanism,M1047
+644,T1548,Privilege Escalation,Abuse Elevation Control Mechanism,M1038
+645,T1548,Defense Evasion,Abuse Elevation Control Mechanism,M1038
+646,T1548,Privilege Escalation,Abuse Elevation Control Mechanism,CM2033
+647,T1548,Defense Evasion,Abuse Elevation Control Mechanism,CM2033
+648,T1548,Privilege Escalation,Abuse Elevation Control Mechanism,CM1118
+649,T1548,Defense Evasion,Abuse Elevation Control Mechanism,CM1118
+650,T1550,Defense Evasion,Use Alternate Authentication Material,CM2013
+651,T1550,Lateral Movement,Use Alternate Authentication Material,CM2013
+652,T1550,Defense Evasion,Use Alternate Authentication Material,CM1126
+653,T1550,Lateral Movement,Use Alternate Authentication Material,CM1126
+654,T1550,Defense Evasion,Use Alternate Authentication Material,CM1124
+655,T1550,Lateral Movement,Use Alternate Authentication Material,CM1124
+656,T1552,Credential Access,Unsecured Credentials,CM2018
+657,T1552,Credential Access,Unsecured Credentials,M1041
+658,T1552,Credential Access,Unsecured Credentials,CM1118
+659,T1552,Credential Access,Unsecured Credentials,M1037
+660,T1552,Credential Access,Unsecured Credentials,CM1101
+661,T1553,Defense Evasion,Subvert Trust Controls,CM1131
+662,T1553,Defense Evasion,Subvert Trust Controls,M1054
+663,T1553,Defense Evasion,Subvert Trust Controls,M1038
+664,T1553,Initial Access,Subvert Trust Controls,CM1131
+665,T1553,Defense Evasion,Subvert Trust Controls,CM1124
+666,T1553,Defense Evasion,Subvert Trust Controls,CM1119
+667,T1553,Initial Access,Subvert Trust Controls,CM2005
+668,T1553,Initial Access,Subvert Trust Controls,CM2009
+669,T1554,Persistence,Compromise Client Software Binary,CM2019
+670,T1554,Persistence,Compromise Client Software Binary,CM1115
+671,T1554,Persistence,Compromise Client Software Binary,CM2009
+672,T1554,Persistence,Compromise Client Software Binary,M1045
+673,T1555,Credential Access,Credentials from Password Stores,CM2033
+674,T1555,Credential Access,Credentials from Password Stores,CM1101
+675,T1556,Defense Evasion,Modify Authentication Process,CM2021
+676,T1556,Credential Access,Modify Authentication Process,CM2021
+677,T1556,Defense Evasion,Modify Authentication Process,M1026
+678,T1556,Credential Access,Modify Authentication Process,M1026
+679,T1556,Defense Evasion,Modify Authentication Process,CM2018
+680,T1556,Credential Access,Modify Authentication Process,CM2018
+681,T1556,Defense Evasion,Modify Authentication Process,CM1126
+682,T1556,Credential Access,Modify Authentication Process,CM1126
+683,T1557,Credential Access,Adversary-in-the-Middle,CM1131
+684,T1557,Collection,Adversary-in-the-Middle,CM1131
+685,T1557,Credential Access,Adversary-in-the-Middle,M1035
+686,T1557,Collection,Adversary-in-the-Middle,M1035
+687,T1557,Credential Access,Adversary-in-the-Middle,M1042
+688,T1557,Collection,Adversary-in-the-Middle,M1042
+689,T1557,Credential Access,Adversary-in-the-Middle,CM2002
+690,T1557,Collection,Adversary-in-the-Middle,CM2002
+691,T1557,Collection,Adversary-in-the-Middle,M1037
+692,T1557,Credential Access,Adversary-in-the-Middle,M1030
+693,T1557,Collection,Adversary-in-the-Middle,M1030
+694,T1557,Credential Access,Adversary-in-the-Middle,M1037
+695,T1557,Credential Access,Adversary-in-the-Middle,M1031
+696,T1557,Collection,Adversary-in-the-Middle,M1031
+697,T1558,Credential Access,Steal or Forge Kerberos Tickets,M1041
+698,T1558,Credential Access,Steal or Forge Kerberos Tickets,CM1113
+699,T1559,Initial Access,Inter-Process Communication,CM1131
+700,T1559,Initial Access,Inter-Process Communication,M1040
+701,T1559,Initial Access,Inter-Process Communication,M1042
+702,T1559,Initial Access,Inter-Process Communication,CM2040
+703,T1559,Initial Access,Inter-Process Communication,CM2047
+704,T1560,Collection,Archive Collected Data,M1047
+705,T1560,Collection,Archive Collected Data,CM2033
+706,T1561,Impact,Disk Wipe,CM1145
+707,T1561,Impact,Disk Wipe,CM1142
+708,T1561,Impact,Disk Wipe,CM1139
+709,T1561,Impact,Disk Wipe,CM1143
+710,T1561,Impact,Disk Wipe,CM1122
+711,T1561,Impact,Disk Wipe,M1053
+712,T1561,Impact,Disk Wipe,CM1141
+713,T1561,Impact,Disk Wipe,CM1138
+714,T1561,Impact,Disk Wipe,CM2007
+715,T1561,Impact,Disk Wipe,CM1104
+716,T1561,Impact,Disk Wipe,CM1116
+717,T1562,Defense Evasion,Impair Defenses,M1022
+718,T1562,Defense Evasion,Impair Defenses,M1018
+719,T1562,Defense Evasion,Impair Defenses,CM2015
+720,T1562,Defense Evasion,Impair Defenses,CM1102
+721,T1562,Defense Evasion,Impair Defenses,CM1115
+722,T1563,Lateral Movement,Remote Service Session Hijacking,CM2021
+723,T1563,Lateral Movement,Remote Service Session Hijacking,M1030
+724,T1563,Lateral Movement,Remote Service Session Hijacking,CM1127
+725,T1563,Lateral Movement,Remote Service Session Hijacking,CM1146
+726,T1564,Defense Evasion,Hide Artifacts,CM2004
+727,T1564,Defense Evasion,Hide Artifacts,CM2033
+728,T1564,Defense Evasion,Hide Artifacts,CM1115
+729,T1565,Impact,Data Manipulation,M1030
+730,T1565,Impact,Data Manipulation,CM1138
+731,T1565,Impact,Data Manipulation,CM1137
+732,T1565,Impact,Data Manipulation,CM1120
+733,T1565,Impact,Data Manipulation,CM1104
+734,T1565,Impact,Data Manipulation,M1041
+735,T1565,Impact,Data Manipulation,CM1155
+736,T1565,Impact,Data Manipulation,CM2006
+737,T1566,Initial Access,Phishing,M1017
+738,T1566,Initial Access,Phishing,CM1123
+739,T1566,Initial Access,Phishing,CM1101
+740,T1566,Initial Access,Phishing,CM1103
+741,T1567,Exfiltration,Exfiltration Over Web Service,CM1153
+742,T1567,Exfiltration,Exfiltration Over Web Service,CM2042
+743,T1567,Exfiltration,Exfiltration Over Web Service,CM1113
+744,T1567,Exfiltration,Exfiltration Over Web Service,CM1112
+745,T1567,Exfiltration,Exfiltration Over Web Service,CM1114
+746,T1568,Collection,Dynamic Resolution,CM2002
+747,T1568,Collection,Dynamic Resolution,CM1102
+748,T1568,Collection,Dynamic Resolution,M1021
+749,T1569,Initial Access,System Services,M1018
+750,T1569,Initial Access,System Services,CM1131
+751,T1569,Initial Access,System Services,M1026
+752,T1569,Initial Access,System Services,CM2004
+753,T1569,Initial Access,System Services,CM2035
+754,T1569,Initial Access,System Services,CM2038
+755,T1570,Initial Access,Lateral Tool Transfer,CM1153
+756,T1570,Initial Access,Lateral Tool Transfer,CM1108
+757,T1570,Initial Access,Lateral Tool Transfer,CM2033
+758,T1570,Initial Access,Lateral Tool Transfer,CM1102
+759,T1570,Initial Access,Lateral Tool Transfer,CM1115
+760,T1570,Lateral Movement,Lateral Tool Transfer,CM1102
+761,T1571,Command and Control,Non-Standard Port,M1030
+762,T1571,Command and Control,Non-Standard Port,CM2002
+763,T1571,Command and Control,Non-Standard Port,CM2041
+764,T1572,Command and Control,Protocol Tunneling,CM1151
+765,T1572,Command and Control,Protocol Tunneling,CM2002
+766,T1572,Command and Control,Protocol Tunneling,CM2041
+767,T1572,Command and Control,Protocol Tunneling,CM2047
+768,T1573,Collection,Encrypted Channel,CM1151
+769,T1573,Collection,Encrypted Channel,M1020
+770,T1573,Collection,Encrypted Channel,CM2002
+771,T1573,Collection,Encrypted Channel,CM2041
+772,T1574,Persistence,Hijack Execution Flow,M1038
+773,T1574,Privilege Escalation,Hijack Execution Flow,M1038
+774,T1574,Defense Evasion,Hijack Execution Flow,M1038
+775,T1574,Persistence,Hijack Execution Flow,CM2015
+776,T1574,Persistence,Hijack Execution Flow,CM2033
+777,T1574,Privilege Escalation,Hijack Execution Flow,CM2015
+778,T1574,Privilege Escalation,Hijack Execution Flow,CM2033
+779,T1574,Defense Evasion,Hijack Execution Flow,CM2015
+780,T1574,Defense Evasion,Hijack Execution Flow,CM2033
+781,T1574,Persistence,Hijack Execution Flow,CM1137
+782,T1574,Privilege Escalation,Hijack Execution Flow,CM1137
+783,T1574,Defense Evasion,Hijack Execution Flow,CM1137
+784,T1574,Persistence,Hijack Execution Flow,CM1123
+785,T1574,Privilege Escalation,Hijack Execution Flow,CM1123
+786,T1574,Defense Evasion,Hijack Execution Flow,CM1123
+787,T1574,Persistence,Hijack Execution Flow,M1022
+788,T1574,Privilege Escalation,Hijack Execution Flow,M1022
+789,T1574,Defense Evasion,Hijack Execution Flow,M1022
+790,T1574,Persistence,Hijack Execution Flow,M1047
+791,T1574,Privilege Escalation,Hijack Execution Flow,M1047
+792,T1574,Defense Evasion,Hijack Execution Flow,M1047
+793,T1578,Defense Evasion,Modify Cloud Compute Infrastructure,CM2023
+794,T1580,Discovery,Cloud Infrastructure Discovery,M1018
+795,T1580,Discovery,Cloud Infrastructure Discovery,CM2004
+796,T1583,Resource Development,Acquire Infrastructure,CM1107
+797,T1583,Resource Development,Acquire Infrastructure,CM1161
+798,T1583,Resource Development,Acquire Infrastructure,CM1101
+799,T1584,Resource Development,Compromise Infrastructure,CM2043
+800,T1585,Resource Development,Establish Accounts,CM1159
+801,T1585,Resource Development,Establish Accounts,CM2043
+802,T1586,Resource Development,Compromise Accounts,CM1159
+803,T1586,Resource Development,Compromise Accounts,CM2043
+804,T1587,Resource Development,Develop Capabilities,CM2043
+805,T1588,Resource Development,Obtain Capabilities,CM1159
+806,T1588,Resource Development,Obtain Capabilities,CM2043
+807,T1589,Reconnaissance,Gather Victim Identity Information,CM1159
+808,T1589,Reconnaissance,Gather Victim Identity Information,CM2002
+809,T1589,Reconnaissance,Gather Victim Identity Information,CM1101
+810,T1589,Reconnaissance,Gather Victim Identity Information,CM1113
+811,T1590,Reconnaissance,Gather Victim Network Information,CM2002
+812,T1590,Reconnaissance,Gather Victim Network Information,CM1102
+813,T1590,Reconnaissance,Gather Victim Network Information,CM1113
+814,T1591,Reconnaissance,Gather Victim Org Information,CM1101
+815,T1591,Reconnaissance,Gather Victim Org Information,CM1113
+816,T1592,Reconnaissance,Gather Victim Host Information,CM1104
+817,T1592,Reconnaissance,Gather Victim Host Information,CM1160
+818,T1592,Reconnaissance,Gather Victim Host Information,CM1101
+819,T1592,Reconnaissance,Gather Victim Host Information,CM1113
+820,T1593,Reconnaissance,Search Open Websites/Domains,CM1101
+821,T1594,Reconnaissance,Search Victim-Owned Websites,CM1101
+822,T1594,Reconnaissance,Search Victim-Owned Websites,CM1113
+823,T1595,Reconnaissance,Active Scanning,CM2002
+824,T1595,Reconnaissance,Active Scanning,CM1160
+825,T1595,Reconnaissance,Active Scanning,CM1104
+826,T1595,Reconnaissance,Active Scanning,CM1101
+827,T1596,Reconnaissance,Search Open Technical Databases,CM1107
+828,T1596,Reconnaissance,Search Open Technical Databases,CM1101
+829,T1596,Reconnaissance,Search Open Technical Databases,CM1162
+830,T1597,Reconnaissance,Search Closed Sources,CM1107
+831,T1597,Reconnaissance,Search Closed Sources,CM1161
+832,T1597,Reconnaissance,Search Closed Sources,CM1162
+833,T1598,Reconnaissance,Phishing for Information,CM1107
+834,T1598,Reconnaissance,Phishing for Information,CM1159
+835,T1598,Reconnaissance,Phishing for Information,M1017
+836,T1598,Reconnaissance,Phishing for Information,CM2041
+837,T1598,Reconnaissance,Phishing for Information,CM1101
+838,T1598,Reconnaissance,Phishing for Information,CM1123
+839,T1599,Defense Evasion,Network Boundary Bridging,M1037
+840,T1599,Defense Evasion,Network Boundary Bridging,CM1305
+841,T1599,Defense Evasion,Network Boundary Bridging,CM2002
+842,T1599,Defense Evasion,Network Boundary Bridging,CM2044
+843,T1599,Defense Evasion,Network Boundary Bridging,CM1134
+844,T1600,Defense Evasion,Weaken Encryption,CM1111
+845,T1600,Defense Evasion,Weaken Encryption,CM1134
+846,T1601,Defense Evasion,Modify System Image,M1026
+847,T1601,Defense Evasion,Modify System Image,M1043
+848,T1601,Defense Evasion,Modify System Image,CM1137
+849,T1601,Defense Evasion,Modify System Image,M1046
+850,T1601,Defense Evasion,Modify System Image,CM2009
+851,T1601,Defense Evasion,Modify System Image,M1045
+852,T1601,Defense Evasion,Modify System Image,CM1134
+853,T1602,Collection,Data from Configuration Repository,CM2002
+854,T1602,Collection,Data from Configuration Repository,M1030
+855,T1602,Collection,Data from Configuration Repository,M1041
+856,T1602,Collection,Data from Configuration Repository,CM1101
+857,T1608,Resource Development,Stage Capabilities,CM1162
+858,T1608,Resource Development,Stage Capabilities,CM2043
+859,T1609,Initial Access,Container Administration Command,CM2005
+860,T1609,Initial Access,Container Administration Command,CM1111
+861,T1609,Initial Access,Container Administration Command,M1038
+862,T1610,Initial Access,Deploy Container,CM1164
+863,T1610,Defense Evasion,Deploy Container,CM1164
+864,T1610,Initial Access,Deploy Container,M1018
+865,T1610,Defense Evasion,Deploy Container,M1018
+866,T1610,Initial Access,Deploy Container,CM2007
+867,T1610,Defense Evasion,Deploy Container,CM2007
+868,T1610,Defense Evasion,Deploy Container,M1030
+869,T1610,Initial Access,Deploy Container,CM2005
+870,T1610,Defense Evasion,Deploy Container,CM2005
+871,T1611,Privilege Escalation,Escape to Host,M1026
+872,T1611,Privilege Escalation,Escape to Host,M1048
+873,T1611,Privilege Escalation,Escape to Host,CM2007
+874,T1611,Privilege Escalation,Escape to Host,M1038
+875,T1611,Privilege Escalation,Escape to Host,CM2005
+876,T1612,Defense Evasion,Build Image on Host,CM1149
+877,T1612,Defense Evasion,Build Image on Host,CM1111
+878,T1612,Defense Evasion,Build Image on Host,CM2002
+879,T1612,Defense Evasion,Build Image on Host,CM2015
+880,T1612,Defense Evasion,Build Image on Host,M1030
+881,T1612,Defense Evasion,Build Image on Host,M1047
+882,T1613,Discovery,Container and Resource Discovery,M1018
+883,T1613,Discovery,Container and Resource Discovery,CM2023
+884,T1613,Discovery,Container and Resource Discovery,CM1158
+885,T1613,Discovery,Container and Resource Discovery,M1030
+886,T1614,Discovery,System Location Discovery,CM2015
+887,T1614,Discovery,System Location Discovery,CM2038
+888,T1614,Discovery,System Location Discovery,CM1156
+889,T1614,Discovery,System Location Discovery,CM1101

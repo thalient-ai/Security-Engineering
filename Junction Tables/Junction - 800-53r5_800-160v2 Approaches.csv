@@ -1,0 +1,298 @@
+﻿Junction ID,Security Control ID,Resiliency Approach
+1,AC-02-08,Adaptive Management
+4,CP-02-05,Adaptive Management
+5,CP-13-00,Adaptive Management
+11,SC-15-01,Adaptive Management
+2,AC-04-03,Adaptive Management
+9,SC-07-11,Adaptive Management
+6,IA-10-00,Adaptive Management
+10,SC-07-20,Adaptive Management
+8,IR-04-03,Adaptive Management
+7,IR-04-02,Adaptive Management
+3,AU-05-03,Adaptive Management
+13,CP-13-00,Architectural Diversity
+15,SC-29-01,Architectural Diversity
+14,SC-29-00,Architectural Diversity
+12,AU-09-07,Architectural Diversity
+16,SC-30-03,Asset Mobility
+19,AC-03-13,Attribute-Based Usage Restriction
+20,AC-06-00,Attribute-Based Usage Restriction
+22,AC-06-08,Attribute-Based Usage Restriction
+17,AC-03-11,Attribute-Based Usage Restriction
+21,AC-06-01,Attribute-Based Usage Restriction
+23,AC-23-00,Attribute-Based Usage Restriction
+18,AC-03-12,Attribute-Based Usage Restriction
+26,IR-04-13,Behavior Validation
+27,SI-04-02,Behavior Validation
+31,SI-04-18,Behavior Validation
+28,SI-04-04,Behavior Validation
+25,AU-06-00,Behavior Validation
+32,SI-10-03,Behavior Validation
+29,SI-04-13,Behavior Validation
+24,AC-02-12,Behavior Validation
+30,SI-04-16,Behavior Validation
+34,IA-02-13,Calibrated Defense-in-Depth
+33,IA-02-06,Calibrated Defense-in-Depth
+36,PL-08-01,Calibrated Defense-in-Depth
+37,SC-28-01,Calibrated Defense-in-Depth
+35,IA-10-00,Calibrated Defense-in-Depth
+38,AC-06-05,Consistency Analysis
+39,AC-06-07,Consistency Analysis
+40,CA-07-05,Consistency Analysis
+42,SC-30-00,Contextual Unpredictability
+41,SC-08-05,Contextual Unpredictability
+44,AC-04-30,Design Diversity
+43,AC-04-27,Design Diversity
+45,CP-13-00,Design Diversity
+46,SA-17-09,Design Diversity
+50,SR-07-00,Disinformation
+49,SI-20-00,Disinformation
+47,SC-26-00,Disinformation
+48,SC-30-04,Disinformation
+51,SC-36-00,Distributed Functionality
+55,IA-02-13,Dynamic Privileges
+56,IA-10-00,Dynamic Privileges
+52,AC-02-06,Dynamic Privileges
+54,AC-23-00,Dynamic Privileges
+53,AC-02-08,Dynamic Privileges
+62,IR-04-03,Dynamic Reconfiguration
+60,AC-04-03,Dynamic Reconfiguration
+58,AC-02-06,Dynamic Reconfiguration
+64,SC-07-20,Dynamic Reconfiguration
+63,IR-04-09,Dynamic Reconfiguration
+57,IR-04-02,Dynamic Reconfiguration
+59,AC-02-08,Dynamic Reconfiguration
+61,CP-02-05,Dynamic Reconfiguration
+67,SC-05-02,Dynamic Resource Allocation
+68,SC-07-20,Dynamic Resource Allocation
+66,IR-04-02,Dynamic Resource Allocation
+65,AU-05-03,Dynamic Resource Allocation
+69,SI-04-16,Dynamic Resource Awareness
+70,SI-04-17,Dynamic Resource Awareness
+71,CM-07-06,Dynamic Segmentation and Isolation
+74,SC-44-00,Dynamic Segmentation and Isolation
+73,SC-35-00,Dynamic Segmentation and Isolation
+72,SC-07-20,Dynamic Segmentation and Isolation
+82,RA-03-03,Dynamic Threat Awareness
+79,AU-13-00,Dynamic Threat Awareness
+75,AT-02-01,Dynamic Threat Awareness
+84,RA-10-00,Dynamic Threat Awareness
+76,AT-02-03,Dynamic Threat Awareness
+81,PM-16-00,Dynamic Threat Awareness
+77,AT-02-05,Dynamic Threat Awareness
+80,AU-13-03,Dynamic Threat Awareness
+83,RA-05-04,Dynamic Threat Awareness
+78,AT-03-03,Dynamic Threat Awareness
+87,SC-26-00,Forensic and Behavioral Analysis
+88,SC-35-00,Forensic and Behavioral Analysis
+91,SR-10-00,Forensic and Behavioral Analysis
+85,IR-04-12,Forensic and Behavioral Analysis
+89,SC-44-00,Forensic and Behavioral Analysis
+90,SI-03-10,Forensic and Behavioral Analysis
+86,IR-05-00,Forensic and Behavioral Analysis
+92,SI-23-00,Fragmentation
+96,SC-30-05,Functional Relocation of Cyber Resources
+93,SC-07-16,Functional Relocation of Cyber Resources
+95,SC-30-03,Functional Relocation of Cyber Resources
+94,SC-30-00,Functional Relocation of Cyber Resources
+99,SC-48-01,Functional Relocation of Sensors
+97,IR-04-02,Functional Relocation of Sensors
+98,SC-48-00,Functional Relocation of Sensors
+100,SI-22-00,Information Diversity
+101,AC-04-08,Integrity Checks
+121,SR-04-03,Integrity Checks
+125,SR-11-00,Integrity Checks
+116,SI-07-06,Integrity Checks
+107,IA-03-01,Integrity Checks
+120,SI-15-00,Integrity Checks
+104,AU-09-06,Integrity Checks
+113,SI-06-00,Integrity Checks
+124,SR-10-00,Integrity Checks
+118,SI-07-09,Integrity Checks
+102,AC-04-12,Integrity Checks
+111,SC-34-00,Integrity Checks
+109,SC-16-01,Integrity Checks
+119,SI-07-10,Integrity Checks
+106,CP-09-08,Integrity Checks
+122,SR-05-00,Integrity Checks
+110,SC-16-03,Integrity Checks
+112,SC-51-00,Integrity Checks
+103,AU-09-01,Integrity Checks
+117,SI-07-07,Integrity Checks
+115,SI-07-01,Integrity Checks
+108,SA-09-07,Integrity Checks
+105,CM-14-00,Integrity Checks
+123,SR-09-00,Integrity Checks
+114,SI-07-00,Integrity Checks
+128,SC-35-00,Misdirection
+129,SC-44-00,Misdirection
+126,SC-26-00,Misdirection
+127,SC-30-04,Misdirection
+131,RA-09-00,Mission Dependency and Status Visualization
+130,CP-02-08,Mission Dependency and Status Visualization
+132,SI-04-01,Mission Dependency and Status Visualization
+148,SI-04-04,Monitoring and Damage Assessment
+149,SI-04-10,Monitoring and Damage Assessment
+152,SI-04-16,Monitoring and Damage Assessment
+141,PM-16-00,Monitoring and Damage Assessment
+144,SC-05-03,Monitoring and Damage Assessment
+136,AU-06-08,Monitoring and Damage Assessment
+140,IR-04-13,Monitoring and Damage Assessment
+155,SI-04-25,Monitoring and Damage Assessment
+138,AU-13-03,Monitoring and Damage Assessment
+157,SR-10-00,Monitoring and Damage Assessment
+145,SC-26-00,Monitoring and Damage Assessment
+150,SI-04-11,Monitoring and Damage Assessment
+154,SI-04-24,Monitoring and Damage Assessment
+139,CM-08-03,Monitoring and Damage Assessment
+135,AU-06-00,Monitoring and Damage Assessment
+146,SC-35-00,Monitoring and Damage Assessment
+147,SI-04-02,Monitoring and Damage Assessment
+142,RA-05-04,Monitoring and Damage Assessment
+133,AC-02-12,Monitoring and Damage Assessment
+151,SI-04-13,Monitoring and Damage Assessment
+143,RA-10-00,Monitoring and Damage Assessment
+134,AC-23-00,Monitoring and Damage Assessment
+137,AU-13-00,Monitoring and Damage Assessment
+156,SR-06-01,Monitoring and Damage Assessment
+153,SI-04-18,Monitoring and Damage Assessment
+159,SC-10-00,Non-Persistent Connectivity
+161,SI-14-03,Non-Persistent Connectivity
+160,SC-15-01,Non-Persistent Connectivity
+158,SC-07-10,Non-Persistent Connectivity
+165,SC-34-01,Non-Persistent Information
+164,SC-25-00,Non-Persistent Information
+168,SI-21-00,Non-Persistent Information
+162,SI-14-01,Non-Persistent Information
+167,SI-14-02,Non-Persistent Information
+166,SI-14-00,Non-Persistent Information
+163,SC-23-03,Non-Persistent Information
+171,SC-25-00,Non-Persistent Services
+169,AC-12-00,Non-Persistent Services
+172,SC-34-00,Non-Persistent Services
+173,SC-34-01,Non-Persistent Services
+170,SC-07-20,Non-Persistent Services
+175,SI-14-01,Non-Persistent Services
+174,SI-14-00,Non-Persistent Services
+183,SC-08-05,Obfuscation
+178,IA-02-06,Obfuscation
+186,SC-30-05,Obfuscation
+177,CP-09-08,Obfuscation
+181,SC-08-01,Obfuscation
+176,AU-09-03,Obfuscation
+182,SC-08-04,Obfuscation
+179,IA-03-01,Obfuscation
+188,SR-03-02,Obfuscation
+180,SC-07-16,Obfuscation
+187,SI-19-04,Obfuscation
+185,SC-30-00,Obfuscation
+184,SC-28-01,Obfuscation
+190,CP-02-05,Orchestration
+189,AC-04-29,Orchestration
+191,IR-04-03,Orchestration
+193,IA-02-13,Path Diversity
+194,SC-47-00,Path Diversity
+192,AC-07-04,Path Diversity
+214,SC-18-05,Predefined Segmentation
+209,SC-07-20,Predefined Segmentation
+195,AC-04-02,Predefined Segmentation
+200,CM-07-07,Predefined Segmentation
+213,SC-11-00,Predefined Segmentation
+212,SC-07-29,Predefined Segmentation
+197,AC-06-04,Predefined Segmentation
+218,SC-44-00,Predefined Segmentation
+210,SC-07-21,Predefined Segmentation
+208,SC-07-15,Predefined Segmentation
+204,SC-03-00,Predefined Segmentation
+202,SC-02-00,Predefined Segmentation
+219,SC-46-00,Predefined Segmentation
+216,SC-32-01,Predefined Segmentation
+203,SC-02-01,Predefined Segmentation
+205,SC-07-00,Predefined Segmentation
+199,CM-07-06,Predefined Segmentation
+201,IR-04-14,Predefined Segmentation
+220,SI-04-04,Predefined Segmentation
+211,SC-07-22,Predefined Segmentation
+198,AU-09-02,Predefined Segmentation
+206,SC-07-03,Predefined Segmentation
+215,SC-32-00,Predefined Segmentation
+207,SC-07-05,Predefined Segmentation
+217,SC-39-00,Predefined Segmentation
+196,AC-04-21,Predefined Segmentation
+222,CP-09-08,Protected Backup and Restore
+221,CP-09-00,Protected Backup and Restore
+231,SR-04-00,Provenance Tracking
+228,SI-07-15,Provenance Tracking
+235,SR-04-04,Provenance Tracking
+236,SR-05-00,Provenance Tracking
+226,PM-30-01,Provenance Tracking
+227,SC-07-11,Provenance Tracking
+233,SR-04-02,Provenance Tracking
+223,AC-04-17,Provenance Tracking
+234,SR-04-03,Provenance Tracking
+232,SR-04-01,Provenance Tracking
+229,SI-10-05,Provenance Tracking
+224,AU-10-02,Provenance Tracking
+230,SI-14-01,Provenance Tracking
+225,CM-14-00,Provenance Tracking
+237,SR-11-00,Provenance Tracking
+238,CM-07-04,Purposing
+239,CM-07-05,Purposing
+242,CP-09-06,Replication
+240,AC-04-27,Replication
+241,AC-04-30,Replication
+243,SC-22-00,Replication
+244,SC-36-00,Replication
+249,SC-25-00,Restriction
+247,CM-08-03,Restriction
+248,SC-03-03,Restriction
+250,SI-16-00,Restriction
+246,CM-07-04,Restriction
+245,CM-07-02,Restriction
+252,AT-03-03,Self-Challenge
+254,CA-08-02,Self-Challenge
+253,CA-08-00,Self-Challenge
+257,SR-06-01,Self-Challenge
+256,SI-19-08,Self-Challenge
+255,SC-07-10,Self-Challenge
+251,AT-02-01,Self-Challenge
+258,SR-07-00,Self-Challenge
+260,AU-06-05,Sensor Fusion and Analysis
+259,AU-06-03,Sensor Fusion and Analysis
+262,IR-04-13,Sensor Fusion and Analysis
+261,IR-04-04,Sensor Fusion and Analysis
+266,SI-04-24,Sensor Fusion and Analysis
+265,SI-04-16,Sensor Fusion and Analysis
+264,SI-04-01,Sensor Fusion and Analysis
+263,RA-05-10,Sensor Fusion and Analysis
+267,SA-20-00,Specialization
+268,SA-23-00,Specialization
+269,IA-05-00,Standard practice
+272,SC-29-01,Standard practice
+271,SC-28-01,Standard practice
+270,IA-05-07,Standard practice
+275,SR-03-02,Supply Chain Diversity
+273,PL-08-02,Supply Chain Diversity
+274,SR-03-01,Supply Chain Diversity
+276,SC-05-02,Surplus Capacity
+277,SI-16-00,Synthetic Diversity
+278,SC-30-04,Tainting
+279,SI-20-00,Tainting
+283,SI-16-00,Temporal Unpredictability
+282,SC-30-03,Temporal Unpredictability
+281,SC-30-02,Temporal Unpredictability
+280,SC-23-03,Temporal Unpredictability
+284,AC-06-04,Trust-Based Privilege Management
+288,AC-06-03,Trust-Based Privilege Management
+291,AC-06-08,Trust-Based Privilege Management
+294,AU-09-06,Trust-Based Privilege Management
+295,CM-05-05,Trust-Based Privilege Management
+287,AC-06-02,Trust-Based Privilege Management
+296,CM-07-06,Trust-Based Privilege Management
+292,AC-06-10,Trust-Based Privilege Management
+286,AC-06-00,Trust-Based Privilege Management
+293,AC-23-00,Trust-Based Privilege Management
+289,AC-06-05,Trust-Based Privilege Management
+290,AC-06-07,Trust-Based Privilege Management
+285,SC-07-15,Trust-Based Privilege Management
+297,AC-06-05,Trust-Based Usage Restriction

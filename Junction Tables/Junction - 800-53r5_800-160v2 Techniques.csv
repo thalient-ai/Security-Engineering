@@ -1,0 +1,369 @@
+﻿Junction ID,Security Control ID,Resiliency Technique
+1,AC-02-06,Adaptive Response
+2,AC-02-06,Privilege Restriction
+4,AC-02-08,Adaptive Response
+3,AC-02-08,Privilege Restriction
+6,AC-02-12,Substantiated Integrity
+5,AC-02-12,Analytic Monitoring
+7,AC-03-02,Privilege Restriction
+8,AC-03-07,Privilege Restriction
+9,AC-03-11,Privilege Restriction
+10,AC-03-12,Privilege Restriction
+11,AC-03-13,Privilege Restriction
+12,AC-04-02,Segmentation
+13,AC-04-03,Adaptive Response
+14,AC-04-08,Substantiated Integrity
+15,AC-04-12,Substantiated Integrity
+16,AC-04-17,Substantiated Integrity
+17,AC-04-21,Segmentation
+18,AC-04-27,Diversity
+19,AC-04-27,Redundancy
+20,AC-04-29,Coordinated Protection
+22,AC-04-30,Redundancy
+21,AC-04-30,Diversity
+23,AC-06-00,Privilege Restriction
+24,AC-06-01,Privilege Restriction
+26,AC-06-02,Privilege Restriction
+25,AC-06-02,Realignment
+27,AC-06-03,Privilege Restriction
+29,AC-06-04,Segmentation
+28,AC-06-04,Privilege Restriction
+30,AC-06-05,Privilege Restriction
+31,AC-06-06,Privilege Restriction
+32,AC-06-07,Privilege Restriction
+33,AC-06-07,Coordinated Protection
+34,AC-06-08,Privilege Restriction
+35,AC-06-10,Privilege Restriction
+36,AC-07-04,Diversity
+37,AC-12-00,Non-Persistence
+39,AC-23-00,Analytic Monitoring
+38,AC-23-00,Privilege Restriction
+41,AT-02-01,Coordinated Protection
+40,AT-02-01,Contextual Awareness
+42,AT-02-03,Contextual Awareness
+43,AT-02-05,Contextual Awareness
+44,AT-03-03,Contextual Awareness
+45,AT-03-03,Coordinated Protection
+46,AU-05-03,Adaptive Response
+47,AU-06-00,Substantiated Integrity
+49,AU-06-00,Analytic Monitoring
+48,AU-06-00,Adaptive Response
+50,AU-06-03,Analytic Monitoring
+51,AU-06-05,Analytic Monitoring
+52,AU-06-06,Analytic Monitoring
+54,AU-06-08,Segmentation
+53,AU-06-08,Analytic Monitoring
+55,AU-06-09,Analytic Monitoring
+56,AU-09-01,Substantiated Integrity
+57,AU-09-02,Segmentation
+58,AU-09-03,Substantiated Integrity
+59,AU-09-05,Privilege Restriction
+60,AU-09-06,Privilege Restriction
+61,AU-09-06,Substantiated Integrity
+62,AU-09-07,Diversity
+63,AU-10-02,Substantiated Integrity
+64,AU-13-00,Analytic Monitoring
+65,AU-13-00,Adaptive Response
+66,AU-13-03,Analytic Monitoring
+67,CA-07-03,Contextual Awareness
+68,CA-07-05,Coordinated Protection
+69,CA-07-06,Analytic Monitoring
+70,CA-08-00,Coordinated Protection
+71,CA-08-01,Coordinated Protection
+72,CA-08-02,Coordinated Protection
+73,CA-08-03,Coordinated Protection
+74,CM-02-07,Realignment
+75,CM-02-07,Analytic Monitoring
+76,CM-04-01,Segmentation
+77,CM-05-04,Privilege Restriction
+78,CM-05-05,Privilege Restriction
+79,CM-05-06,Privilege Restriction
+80,CM-07-02,Realignment
+81,CM-07-04,Realignment
+83,CM-07-05,Realignment
+82,CM-07-05,Privilege Restriction
+84,CM-07-06,Privilege Restriction
+85,CM-07-06,Segmentation
+86,CM-07-07,Segmentation
+87,CM-08-03,Analytic Monitoring
+88,CM-14-00,Substantiated Integrity
+89,CP-02-01,Coordinated Protection
+91,CP-02-05,Coordinated Protection
+90,CP-02-05,Adaptive Response
+92,CP-02-08,Contextual Awareness
+93,CP-04-05,Coordinated Protection
+94,CP-08-03,Diversity
+95,CP-09-00,Redundancy
+96,CP-09-01,Coordinated Protection
+97,CP-09-01,Redundancy
+98,CP-09-01,Substantiated Integrity
+99,CP-09-06,Redundancy
+100,CP-09-07,Privilege Restriction
+103,CP-09-08,Substantiated Integrity
+101,CP-09-08,Deception
+102,CP-09-08,Redundancy
+104,CP-11-00,Diversity
+105,CP-12-00,Adaptive Response
+106,CP-12-00,Realignment
+107,CP-13-00,Adaptive Response
+108,CP-13-00,Diversity
+109,IA-02-06,Coordinated Protection
+110,IA-02-06,Diversity
+111,IA-02-13,Segmentation
+113,IA-02-13,Diversity
+112,IA-02-13,Coordinated Protection
+114,IA-03-01,Deception
+115,IA-03-01,Substantiated Integrity
+116,IA-10-00,Adaptive Response
+118,IA-10-00,Privilege Restriction
+117,IA-10-00,Coordinated Protection
+119,IR-04-02,Adaptive Response
+120,IR-04-02,Dynamic Positioning
+122,IR-04-03,Coordinated Protection
+121,IR-04-03,Adaptive Response
+123,IR-04-04,Analytic Monitoring
+125,IR-04-04,Contextual Awareness
+124,IR-04-04,Coordinated Protection
+126,IR-04-09,Adaptive Response
+127,IR-04-10,Coordinated Protection
+129,IR-04-11,Adaptive Response
+130,IR-04-11,Analytic Monitoring
+128,IR-04-11,Coordinated Protection
+132,IR-04-12,Segmentation
+131,IR-04-12,Analytic Monitoring
+133,IR-04-13,Analytic Monitoring
+134,IR-04-13,Substantiated Integrity
+135,IR-05-00,Analytic Monitoring
+136,MA-04-04,Segmentation
+137,PE-03-05,Substantiated Integrity
+138,PE-06-00,Analytic Monitoring
+140,PE-06-02,Coordinated Protection
+141,PE-06-02,Adaptive Response
+139,PE-06-02,Analytic Monitoring
+142,PE-06-04,Analytic Monitoring
+143,PE-06-04,Coordinated Protection
+144,PE-09-01,Redundancy
+145,PE-11-01,Redundancy
+146,PE-11-02,Redundancy
+147,PE-17-00,Redundancy
+148,PL-08-01,Coordinated Protection
+149,PL-08-02,Diversity
+150,PM-07-01,Realignment
+151,PM-16-00,Contextual Awareness
+152,PM-16-01,Contextual Awareness
+153,PM-30-01,Substantiated Integrity
+154,PM-31-00,Analytic Monitoring
+155,PM-32-00,Realignment
+156,RA-03-02,Contextual Awareness
+158,RA-03-03,Contextual Awareness
+157,RA-03-03,Adaptive Response
+159,RA-03-04,Contextual Awareness
+160,RA-05-04,Analytic Monitoring
+162,RA-05-05,Privilege Restriction
+161,RA-05-05,Analytic Monitoring
+163,RA-05-06,Analytic Monitoring
+164,RA-05-08,Analytic Monitoring
+165,RA-05-10,Analytic Monitoring
+166,RA-09-00,Realignment
+167,RA-09-00,Contextual Awareness
+168,RA-10-00,Analytic Monitoring
+169,RA-10-00,Contextual Awareness
+170,SA-03-02,Segmentation
+171,SA-08-02,Realignment
+173,SA-08-03,Realignment
+172,SA-08-03,Segmentation
+174,SA-08-03,Coordinated Protection
+175,SA-08-04,Coordinated Protection
+177,SA-08-06,Segmentation
+176,SA-08-06,Realignment
+178,SA-08-07,Realignment
+180,SA-08-08,Realignment
+179,SA-08-08,Coordinated Protection
+181,SA-08-13,Realignment
+182,SA-08-15,Privilege Restriction
+185,SA-08-16,Adaptive Response
+184,SA-08-16,Substantiated Integrity
+183,SA-08-16,Segmentation
+186,SA-08-17,Dynamic Positioning
+187,SA-08-18,Privilege Restriction
+189,SA-08-19,Substantiated Integrity
+188,SA-08-19,Redundancy
+190,SA-08-31,Realignment
+191,SA-09-07,Substantiated Integrity
+192,SA-11-02,Contextual Awareness
+193,SA-11-05,Coordinated Protection
+194,SA-11-06,Realignment
+195,SA-15-05,Realignment
+196,SA-17-06,Realignment
+197,SA-17-08,Coordinated Protection
+198,SA-17-09,Diversity
+199,SA-20-00,Realignment
+200,SA-23-00,Realignment
+201,SC-02-00,Segmentation
+202,SC-02-01,Segmentation
+203,SC-03-00,Segmentation
+204,SC-03-01,Segmentation
+205,SC-03-02,Segmentation
+206,SC-03-03,Realignment
+209,SC-03-05,Realignment
+207,SC-03-05,Segmentation
+208,SC-03-05,Coordinated Protection
+211,SC-05-02,Redundancy
+210,SC-05-02,Adaptive Response
+212,SC-05-03,Analytic Monitoring
+213,SC-07-00,Segmentation
+216,SC-07-10,Analytic Monitoring
+214,SC-07-10,Non-Persistence
+215,SC-07-10,Coordinated Protection
+217,SC-07-11,Substantiated Integrity
+218,SC-07-13,Segmentation
+220,SC-07-15,Realignment
+221,SC-07-15,Segmentation
+219,SC-07-15,Privilege Restriction
+223,SC-07-16,Dynamic Positioning
+222,SC-07-16,Deception
+224,SC-07-20,Adaptive Response
+225,SC-07-20,Segmentation
+226,SC-07-21,Segmentation
+227,SC-07-22,Segmentation
+228,SC-07-29,Segmentation
+229,SC-08-01,Deception
+230,SC-08-01,Substantiated Integrity
+232,SC-08-04,Unpredictability
+231,SC-08-04,Deception
+233,SC-08-05,Segmentation
+234,SC-08-05,Substantiated Integrity
+235,SC-10-00,Non-Persistence
+236,SC-11-00,Substantiated Integrity
+237,SC-11-00,Segmentation
+238,SC-15-01,Non-Persistence
+239,SC-16-01,Substantiated Integrity
+240,SC-16-03,Substantiated Integrity
+241,SC-18-05,Segmentation
+242,SC-22-00,Redundancy
+243,SC-23-03,Unpredictability
+244,SC-23-03,Non-Persistence
+246,SC-25-00,Realignment
+245,SC-25-00,Non-Persistence
+248,SC-26-00,Analytic Monitoring
+247,SC-26-00,Deception
+249,SC-27-00,Diversity
+250,SC-27-00,Realignment
+252,SC-28-01,Substantiated Integrity
+251,SC-28-01,Deception
+253,SC-29-00,Diversity
+255,SC-29-01,Non-Persistence
+254,SC-29-01,Diversity
+256,SC-30-00,Deception
+257,SC-30-02,Unpredictability
+259,SC-30-03,Unpredictability
+258,SC-30-03,Dynamic Positioning
+260,SC-30-04,Deception
+261,SC-30-05,Deception
+262,SC-32-00,Segmentation
+263,SC-32-01,Segmentation
+264,SC-34-00,Substantiated Integrity
+265,SC-34-01,Non-Persistence
+266,SC-34-02,Substantiated Integrity
+268,SC-35-00,Analytic Monitoring
+269,SC-35-00,Deception
+267,SC-35-00,Segmentation
+270,SC-36-00,Redundancy
+271,SC-36-00,Dynamic Positioning
+272,SC-36-01,Adaptive Response
+273,SC-36-01,Substantiated Integrity
+274,SC-36-02,Redundancy
+275,SC-36-02,Coordinated Protection
+276,SC-37-00,Diversity
+277,SC-39-00,Segmentation
+278,SC-39-01,Segmentation
+279,SC-39-02,Segmentation
+280,SC-40-02,Deception
+282,SC-40-03,Unpredictability
+281,SC-40-03,Deception
+283,SC-44-00,Deception
+284,SC-44-00,Segmentation
+285,SC-44-00,Analytic Monitoring
+286,SC-46-00,Segmentation
+287,SC-47-00,Diversity
+288,SC-48-00,Dynamic Positioning
+289,SC-48-01,Dynamic Positioning
+290,SC-49-00,Segmentation
+291,SC-50-00,Segmentation
+292,SC-51-00,Substantiated Integrity
+293,SI-03-10,Analytic Monitoring
+295,SI-04-01,Analytic Monitoring
+294,SI-04-01,Contextual Awareness
+296,SI-04-02,Analytic Monitoring
+297,SI-04-02,Contextual Awareness
+298,SI-04-02,Substantiated Integrity
+299,SI-04-03,Adaptive Response
+300,SI-04-03,Analytic Monitoring
+301,SI-04-04,Substantiated Integrity
+302,SI-04-04,Analytic Monitoring
+304,SI-04-07,Adaptive Response
+303,SI-04-07,Analytic Monitoring
+305,SI-04-10,Analytic Monitoring
+306,SI-04-11,Analytic Monitoring
+308,SI-04-13,Substantiated Integrity
+307,SI-04-13,Analytic Monitoring
+309,SI-04-16,Analytic Monitoring
+310,SI-04-16,Contextual Awareness
+311,SI-04-17,Contextual Awareness
+312,SI-04-17,Analytic Monitoring
+313,SI-04-18,Analytic Monitoring
+314,SI-04-24,Analytic Monitoring
+315,SI-04-25,Analytic Monitoring
+316,SI-06-00,Substantiated Integrity
+317,SI-07-00,Substantiated Integrity
+318,SI-07-01,Substantiated Integrity
+319,SI-07-05,Adaptive Response
+320,SI-07-05,Substantiated Integrity
+321,SI-07-06,Substantiated Integrity
+323,SI-07-07,Substantiated Integrity
+322,SI-07-07,Analytic Monitoring
+324,SI-07-09,Substantiated Integrity
+325,SI-07-10,Substantiated Integrity
+326,SI-07-12,Substantiated Integrity
+327,SI-07-15,Substantiated Integrity
+328,SI-10-03,Substantiated Integrity
+329,SI-10-05,Substantiated Integrity
+330,SI-14-00,Non-Persistence
+332,SI-14-01,Substantiated Integrity
+331,SI-14-01,Non-Persistence
+333,SI-14-02,Non-Persistence
+334,SI-14-03,Non-Persistence
+335,SI-15-00,Substantiated Integrity
+337,SI-16-00,Diversity
+336,SI-16-00,Unpredictability
+338,SI-16-00,Realignment
+339,SI-19-04,Deception
+340,SI-19-06,Uncertainty
+341,SI-19-06,Deception
+342,SI-19-08,Coordinated Protection
+343,SI-20-00,Deception
+344,SI-21-00,Non-Persistence
+345,SI-22-00,Diversity
+346,SI-23-00,Dynamic Positioning
+347,SR-03-01,Diversity
+349,SR-03-02,Diversity
+348,SR-03-02,Deception
+350,SR-04-00,Substantiated Integrity
+351,SR-04-01,Substantiated Integrity
+352,SR-04-02,Substantiated Integrity
+353,SR-04-03,Substantiated Integrity
+354,SR-04-04,Substantiated Integrity
+356,SR-05-00,Substantiated Integrity
+355,SR-05-00,Deception
+357,SR-05-01,Diversity
+358,SR-05-01,Redundancy
+360,SR-06-01,Coordinated Protection
+359,SR-06-01,Analytic Monitoring
+361,SR-07-00,Deception
+362,SR-09-00,Substantiated Integrity
+364,SR-09-01,Substantiated Integrity
+363,SR-09-01,Deception
+366,SR-10-00,Substantiated Integrity
+365,SR-10-00,Analytic Monitoring
+367,SR-11-00,Substantiated Integrity
+368,SR-11-03,Substantiated Integrity
