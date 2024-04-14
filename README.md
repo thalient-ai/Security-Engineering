@@ -67,21 +67,6 @@ You can use the CSV files in this repository to:
 |[MITRE ATT&CK & MITRE CAPEC](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20ATT%26CK_CAPEC.csv "MITRE ATT&CK & MITRE CAPEC") | [[Source]](https://cwe.mitre.org/data/index.html "[Source]") | Derived from Common Attack Pattern Enumeration and Classification (CAPEC) Version 3.9
 |[MITRE CAPEC & MITRE CWE](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20CAPEC_CWE.csv "MITRE CAPEC & MITRE CWE") | [[Source]](https://cwe.mitre.org/data/index.html "[Source]") | Mapping derived from MITRE Common Weakness Enumeration (CWE) Version 4.14
 
-## Getting Involved
-
-There are several ways that you can get involved with this project and help
-advance threat-informed defense:
-
-- **Visit the ATT&CK Sync website.** Access changelogs that detail the cumulative
-  changes between any ATT&CK versions. This is especially helpful if your organization
-  is contemplating an upgrade of internal systems to a more recent version of ATT&CK.
-- **Review the sample documents.** These documents will give you a better idea of how
-  ATT&CK Sync can your organization major time and effort while staying in sync with
-  ATT&CK.
-- **Tell us what you think.** As the project grows, we want to cover a broader set of
-  use cases. Let us know if you like this idea and how we can make it even better in
-  future releases.
-
 ## Questions and Feedback
 
 Please submit issues for any technical questions/concerns or contact brandyn@thalient.ai directly for general inquiries.
