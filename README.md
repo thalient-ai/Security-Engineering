@@ -1,6 +1,6 @@
 # Security Engineering
 
-This project aims to make cybersecurity and systems security engineering standards and guidance more accessible and actionable. Here, you willl find CSV files containing structured data extracted from a variety of standards and sources.
+This project aims to make cybersecurity and systems security engineering standards and guidance more accessible and actionable. Here, you will find CSV files containing structured data extracted from a variety of standards and sources.
 
 **Why This Project Matters**
 
