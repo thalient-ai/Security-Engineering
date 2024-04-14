@@ -13,6 +13,7 @@ Cybersecurity standards and guidance are a crucial mechanism for engineering bet
 **Table Of Contents:**
 
 - [Getting Started](#getting-started)
+- [Airtable](#airtable)
 - [CSV Files](#csv-files)
 - [Junction Tables](#junction-tables)
 - [Questions and Feedback?](#questions-and-feedback)
@@ -25,7 +26,16 @@ You can use the CSV files in this repository to:
 - Analyze relationships between different standards and requirements.
 - Develop applications or services that leverage centralized, structured security data.
 
-[Airtable Database](https://airtable.com/appIfMZL3Q2ydSFFk/shriKMlKDE4R8isTj "Airtable Database")
+## Airtable
+
+[**Airtable Database**](https://airtable.com/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI "Airtable Database")
+
+Airtable is a cloud-based software platform that combines the functionality of a database with the ease of use of a spreadsheet. It allows users to create and share relational databases with a simple, user-friendly interface. 
+
+To enhance usability and accessibility, this project features a relational database created in Airtable that organizes and links the CSV files containing cybersecurity standards. This setup allows for a dynamic and interactive way to explore and relate the data across various security standards.
+
+**Database Schema**
+![Database Schema](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/database_schema.PNG?raw=true "Database Schema")
 
 ## CSV Files
 
@@ -71,4 +81,4 @@ You can use the CSV files in this repository to:
 
 ## Questions and Feedback
 
-Please submit issues for any technical questions/concerns or contact brandyn@thalient.ai directly for general inquiries.
+Please submit issues for any technical questions/concerns, leave comments in Airtable, or contact brandyn@thalient.ai directly for general inquiries.
