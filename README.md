@@ -6,9 +6,8 @@ Placeholder
 
 - [Getting Started](#getting-started)
 - [CSV Files](#csv-files)
-- [Questions and Feedback](#questions-and-feedback)
+- [Junction Tables](#junction-tables)
 - [How Do I Contribute?](#how-do-i-contribute)
-- [Notice](#notice)
 
 ## Getting Started
 
