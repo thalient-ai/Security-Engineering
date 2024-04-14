@@ -1,6 +1,14 @@
-# Security-Engineering
+# Security Engineering
 
-Placeholder
+This project aims to make cybersecurity and systems security engineering standards and guidance more accessible and actionable. Here, you'll find CSV files containing structured data extracted from a variety of standards.
+
+**Why This Project Matters**
+
+Cybersecurity standards and guidance documents are a crucial mechanism for engineering better, more secure systems and managing risks. However, this information is often provided in non-usable formats (e.g., embedded tables within a .pdf) or spread across many different documents or sources, making it difficult to utilize effectively. This project addresses these challenges by:
+
+- **Centralizing Data:** Aggregating data from disparate security documents into a single, accessible format.
+- **Enhancing Usability:** Converting data embedded in PDF tables into CSV files that can be easily manipulated and analyzed.
+- **Facilitating Relationships:** Providing junction tables to help users relate and integrate data from various standards within relational databases.
 
 **Table Of Contents:**
 
@@ -15,7 +23,7 @@ Placeholder
 
 ## CSV Files
 
-| .csv File | Title | Publish Date | URL | Notes |
+| .csv File | Title | Publish Date | Source URL | Notes |
 | :------------ | :------------ | :------------ | :------------ | :------------ |
 | [NIST SP 800-53 Revision 5](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-53r5.csv "NIST SP 800-53 Revision 5") | Security and Privacy Controls for Information Systems and Organizations | September 2020 | [[Source]](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final  "[Source]") | Includes Chapter 3 and Table C-1 from Appendix C. |
 | [NIST SP 800-53A Revision 5](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-53Ar5.csv "NIST SP 800-53A Revision 5") | Assessing Security and Privacy Controls in Information Systems and Organizations | January 2022 | [[Source]](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final "[Source]") | Includes Chapter 4 Assessment Methods and Objects. Does not include Assessment Objectives.
