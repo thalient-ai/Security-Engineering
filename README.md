@@ -14,7 +14,7 @@ Placeholder
 
 Placeholder
 
-### CSV Files
+##CSV Files
 
 | .csv File | Title | Publish Date | URL |
 | :------------ | :------------ | :------------ | :------------ |
@@ -35,7 +35,26 @@ Placeholder
 | [CWE](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/CWE.csv "CWE") | MITRE Common Weakness Enumeration (CWE), Version 4.14 | As of April 2024 | [[Source]](https://cwe.mitre.org/data/downloads.html "[Source]") |
 | [ISO 27001 / 27002](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/ISO%2027001_27002.csv "ISO 27001 / 27002") | Information security, cybersecurity and privacy protection: Information security management systems: Requirements | October 2022 | [[Source]](https://www.iso.org/standard/27001 "[Source]")
 
-### Junction Tables
+##Junction Tables
+
+| .csv File  | URL | Notes |
+| :------------ | :------------ | :------------ |
+| [NIST SP 800-53 Revision 5 & DISA CCI](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_CCI.csv "NIST SP 800-53 Revision 5 & DISA CCI")
+|[NIST SP 800-53 Revision 5 & CSEIG](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_CSEIG.csv "NIST SP 800-53 Revision 5 & CSEIG")
+| [NIST SP 800-53 Revision 5 & ISO 27001:2022](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_ISO%2027001.csv "NIST SP 800-53 Revision 5 & ISO 27001")
+|[NIST SP 800-53 Revision 5 & MITRE ATT&CK Techniques](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_ATT%26CK%20Technique.csv "NIST SP 800-53 Revision 5 & ATT&CK Techniques")
+|[NIST SP 800-53 Revision 5 & NIST SP 800-171 Revision 2](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_800-171r2.csv "NIST SP 800-53 Revision 5 & NIST SP 800-171 Revision 2")
+|[NIST SP 800-53 Revision 5 & NIST SP 800-172](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-172.csv "NIST SP 800-53 Revision 5 & NIST SP 800-172")
+|[NIST SP 800-53 Revision 5 & NIST SP 800-160 Volume 2 Techniques](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_800-160v2%20Techniques.csv "NIST SP 800-53 Revision 5 & NIST SP 800-160 Volume 2 Techniques")
+|[NIST SP 800-53 Revision 5 & NIST SP 800-160 Volume 2 Mitigations](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_800-160v2%20Mitigations.csv "NIST SP 800-53 Revision 5 & NIST SP 800-160 Volume 2 Mitigations")
+|[NIST SP 800-53 Revision 5 & NIST SP 800-160 Volume 2 Approaches](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-53r5_800-160v2%20Approaches.csv "NIST SP 800-53 Revision 5 & NIST SP 800-160 Volume 2 Approaches")
+|[NIST SP 800-160 Volume 2 Techniques & Approaches](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-160v2%20Techniques_Approaches.csv "NIST SP 800-160 Volume 2 Techniques & Approaches")
+|[NIST SP 800-160 Volume 2 & MITRE ATT&CK](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-160v2_ATT%26CK.csv "NIST SP 800-160 Volume 2 & MITRE ATT&CK")
+|[NIST SP 800-160 Volume 2 & CSEIG Cyber Survivability Attributes](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20800-160v2_CSEIG.csv "NIST SP 800-160 Volume 2 & CSEIG Cyber Survivability Attributes")
+|[MITRE ATT&CK Techniques & Mitigations](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20ATT%26CK%20Techniques_Mitigations.csv "MITRE ATT&CK Techniques & Mitigations")
+|[MITRE ATT&CK Techniques & Tactics](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20ATT%26CK%20Techniques_Tactics.csv "MITRE ATT&CK Techniques & Tactics")
+|[MITRE ATT&CK & MITRE CAPEC](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20ATT%26CK_CAPEC.csv "MITRE ATT&CK & MITRE CAPEC")
+|[MITRE CAPEC & MITRE CWE](https://github.com/thalient-ai/Security-Engineering/blob/main/Junction%20Tables/Junction%20-%20CAPEC_CWE.csv "MITRE CAPEC & MITRE CWE")
 
 ## Getting Involved
 
