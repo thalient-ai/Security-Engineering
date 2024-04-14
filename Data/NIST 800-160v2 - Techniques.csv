@@ -1,12 +1,12 @@
 ﻿Resilience Technique Name,Resilience Technique Definition,Purpose
 Adaptive Response,Implement agile courses of action to manage risks.,"Inform courses of action with situational awareness and predictive analytics for increased agility.
-All approaches can leverage virtualization and are compatible with zero trust architecture (ZTA) and cloud computing strategies. All approaches can also be"
+All approaches can leverage virtualization and are compatible with zero trust architecture (ZTA) and cloud computing strategies. All approaches can also be applied to processes and reporting within a Security Operations Center (SOC), and to the use of deception."
 Analytic Monitoring,Monitor and analyze a wide range of properties and behaviors on an ongoing basis and in a coordinated way.,Systems can accumulate vast amounts of monitoring or logging data. Use monitoring data strategically to inform defensive activities.
 Contextual Awareness,Construct and maintain current representations of the posture of missions or business functions considering threat events and courses of action.,Maintain cyber situational awareness to support mission continuity.
 Coordinated Protection,Ensure that protection mechanisms operate in a coordinated and effective manner.,Lack of coordination introduces fragility and creates exposures to threats.
-Deception,"Mislead, confuse, hide critical assets from, or expose covertly tainted assets to the adversary.","Apply deception strategically, tactically, or both. Ensure that cyber risk governance and SOC operations allow for deception and maintain deception resources. Deception can support analysis and attribution of adversary TTPs, and the development of cyber t"
+Deception,"Mislead, confuse, hide critical assets from, or expose covertly tainted assets to the adversary.","Apply deception strategically, tactically, or both. Ensure that cyber risk governance and SOC operations allow for deception and maintain deception resources. Deception can support analysis and attribution of adversary TTPs, and the development of cyber threat intelligence."
 Diversity,"Use heterogeneity to minimize common mode failures, particularly threat events exploiting common vulnerabilities.","Enterprise systems often include some diversity incidentally, as a result of procurements by different programs or at different times. Poorly managed, this can be costly and create security risks; well managed, it can make an adversary’s job harder.
-Due t"
+Due to reliance on common libraries and infrastructures, diversity can be more apparent than real; therefore, analysis is needed to verify the extent of diversity."
 Dynamic Positioning,Distribute and dynamically relocate functionality or system resources.,Use moving target defenses to make an adversary’s job harder.
 Non-Persistence,Generate and retain resources as needed or for a limited time.,Reduce the attack surface in the temporal dimension
 Privilege Restriction,Restrict privileges based on attributes of users and system elements as well as on environmental factors.,Apply existing capabilities more stringently
