@@ -1,7 +1,6 @@
 # Security-Engineering
 
-ATT&CK Sync is a Center for Threat-Informed Defense project that aims to ease the
-process of staying in sync with MITRE ATT&CK® version updates. We recognize widespread difficulties keeping internal systems and date in sync with with ATT&CK, so this project includes tools, data, and methodology to reduce the cost and effort associated with tracking ATT&CK releases. The Center is deploying this technology to improve our own projects, and we believe it will be highly valuable to many other organizations as well.
+Placeholder
 
 **Table Of Contents:**
 
@@ -13,22 +12,24 @@ process of staying in sync with MITRE ATT&CK® version updates. We recognize wid
 
 ## Getting Started
 
-The best way to get started is to visit the ATT&CK Sync website, where you can quickly
-access detailed changelogs that show cumulative differences between any two versions of
-ATT&CK from v8.0 to v13.0. The sample JSON changelog shows how the differences can be
-consumed in machine-readable format, and the sample Excel mappings show how the
-machine-readable data can be merged with your internal systems & data to provide
-contextual ATT&CK changes. Finally, the project wiki provides thorough documentation for
-the project as well as a case study.
+Placeholder
 
-| File | Title | Publish Date | URL |
+##CSV Files
+
+| .csv File | Title | Publish Date | URL |
 | :------------ | :------------ | :------------ | :------------ |
 | [NIST SP 800-53 Revision 5](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-53r5.csv "NIST SP 800-53 Revision 5") | Security and Privacy Controls for Information Systems and Organizations | September 2020 | [[Source]](http://https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final  "[Source]") |
 | [NIST SP 800-53A Revision 5](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-53Ar5.csv "NIST SP 800-53A Revision 5") | Assessing Security and Privacy Controls in Information Systems and Organizations | January 2022 | [[Source]](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final "[Source]") |
 | [NIST SP 800-53B Revision 5](http://https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-53Br5.csv "NIST SP 800-53B Revision 5") |  Control Baselines for Information Systems and Organizations | September 2020 (includes updates as of December 2020) | [[Source]](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final "[Source]") |
 | [NIST SP 800-171 Revision 2](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-171r2.csv "NIST SP 800-171 Revision 2") | Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations | February 2020 (includes updates as of January 28, 2021) | [[Source]](https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final "[Source]") |
-| [NIST SP 800-172](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-172.csv "NIST SP 800-172") | Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171 | February 2021 | [[Source]](https://csrc.nist.gov/pubs/sp/800/172/final "[Source]")
-| [CNSSI 1253](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/CNSSI%201253.csv "CNSSI 1253") | Security Categorization and Control Selection for National Security Systems | August 2022 | [[Source]](https://www.cnss.gov/CNSS/issuances/Instructions.cfm "[Source]")
+| [NIST SP 800-172](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-172.csv "NIST SP 800-172") | Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171 | February 2021 | [[Source]](https://csrc.nist.gov/pubs/sp/800/172/final "[Source]")|
+| [CNSSI 1253](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/CNSSI%201253.csv "CNSSI 1253") | Security Categorization and Control Selection for National Security Systems | August 2022 | [[Source]](https://www.cnss.gov/CNSS/issuances/Instructions.cfm "[Source]")|
+| [CSEIG](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/CSEIG%20CSA.csv "CSEIG") | Cyber Survivability Endorsement (CSE) Implementation Guide (CSEIG), Version 3.0 | July 2022 | [[Source]](https://events.afcea.org/afceacyber23/Custom/Handout/Speaker0_Session10259_1.pdf "[Source]")|
+| [DISA CCI](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/DISA%20CCI.csv "DISA CCI") | Defense Information Systems Agency (DISA) Control Correlation Identifiers (CCIs) | January 2024 | [[Source]](https://public.cyber.mil/stigs/cci/ "[Source]") |
+| [NIST SP 800-160 Volume 2 Revision 1 - Techniques](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-160v2%20-%20Techniques.csv "NIST SP 800-160 Volume 2 - Resiliency Techniques")| Developing Cyber-Resilient Systems: A Systems Security Engineering Approach | December 2021 | [[Source]](https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final "[Source]")|
+| [NIST SP 800-160 Volume 2 Revision 1 - Approaches](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/NIST%20800-160v2%20-%20Approaches.csv "NIST SP 800-160 Volume 2 Revision 1 - Approaches") | Developing Cyber-Resilient Systems: A Systems Security Engineering Approach | December 2021 | [[Source]](https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final "[Source]")|
+
+##Junction Tables
 
 ## Getting Involved
 
