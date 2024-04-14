@@ -1,14 +1,14 @@
 # Security Engineering
 
-This project aims to make cybersecurity and systems security engineering standards and guidance more accessible and actionable. Here, you'll find CSV files containing structured data extracted from a variety of standards.
+This project aims to make cybersecurity and systems security engineering standards and guidance more accessible and actionable. Here, you willl find CSV files containing structured data extracted from a variety of standards and sources.
 
 **Why This Project Matters**
 
-Cybersecurity standards and guidance documents are a crucial mechanism for engineering better, more secure systems and managing risks. However, this information is often provided in non-usable formats (e.g., embedded tables within a .pdf) or spread across many different documents or sources, making it difficult to utilize effectively. This project addresses these challenges by:
+Cybersecurity standards and guidance are a crucial mechanism for engineering better, more secure systems and managing risk. However, this information is often provided in non-usable formats (e.g., embedded tables within a .pdf) or spread across many different documents or sources, making it difficult to utilize effectively. This project addresses these challenges by:
 
-- **Centralizing Data:** Aggregating data from disparate security documents into a single, accessible format.
-- **Enhancing Usability:** Converting data embedded in PDF tables into CSV files that can be easily manipulated and analyzed.
-- **Facilitating Relationships:** Providing junction tables to help users relate and integrate data from various standards within relational databases.
+- **Centralizing Data:** Aggregating data from disparate documents and sources.
+- **Enhancing Usability:** Converting data into CSV files that can be easily manipulated and analyzed.
+- **Facilitating Relationships:** Relating and integrate data through junction tables.
 
 **Table Of Contents:**
 
