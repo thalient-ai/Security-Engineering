@@ -35,6 +35,8 @@ Airtable is a cloud-based software platform that combines the functionality of a
 To enhance usability and accessibility, this project features a relational database created in Airtable that organizes and links the CSV files containing cybersecurity standards. This setup allows for a dynamic and interactive way to explore and relate the data across various security standards.
 
 **Database Schema**
+Below is a screenshot of the database scheme configured within Airtable. Here is a [**link**](https://airtable.com/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI/tblzmbXeKrcG7FiFE/viwGxbuWwIFDXSEbu?blocks=biped4Irb3IzRtqjD&bip=full "link") directly to the database scheme extension.
+
 ![Database Schema](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/database_schema.PNG?raw=true "Database Schema")
 
 ## CSV Files
