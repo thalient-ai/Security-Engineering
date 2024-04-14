@@ -4,7 +4,7 @@ This project aims to make cybersecurity and systems security engineering standar
 
 **Why This Project Matters**
 
-Cybersecurity standards and guidance are a crucial mechanism for engineering better, more secure systems and managing risk. However, this information is often provided in non-usable formats (e.g., embedded tables within a .pdf) or spread across many different documents or sources, making it difficult to utilize effectively. This project addresses these challenges by:
+Cybersecurity standards and guidance are a crucial mechanism for engineering better, more secure systems and managing risk. However, this information is often provided in non-usable formats (e.g., embedded tables within a .pdf) or spread across many different documents or sources, making it difficult to utilize effectively or evaluate holistically. This project addresses these challenges by:
 
 - **Centralizing Data:** Aggregating data from disparate documents and sources.
 - **Enhancing Usability:** Converting data into CSV files that can be easily manipulated and analyzed.
@@ -19,7 +19,11 @@ Cybersecurity standards and guidance are a crucial mechanism for engineering bet
 
 ## Getting Started
 
-Placeholder
+You can use the CSV files in this repository to:
+
+- Integrate cybersecurity standards data into your tools and workflows.
+- Analyze relationships between different standards and requirements.
+- Develop applications or services that leverage centralized, structured security data.
 
 ## CSV Files
 
