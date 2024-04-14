@@ -5,7 +5,7 @@ Placeholder
 **Table Of Contents:**
 
 - [Getting Started](#getting-started)
-- [Getting Involved](#getting-involved)
+- [CSV Files](#gcsv-files)
 - [Questions and Feedback](#questions-and-feedback)
 - [How Do I Contribute?](#how-do-i-contribute)
 - [Notice](#notice)
