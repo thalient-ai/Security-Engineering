@@ -30,6 +30,8 @@ You can use the CSV files in this repository to:
 
 [**Airtable Database**](https://airtable.com/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI "Airtable Database")
 
+![Airtable](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/airtable_security-engineering.PNG?raw=true "Airtable")
+
 Airtable is a cloud-based software platform that combines the functionality of a database with the ease of use of a spreadsheet. It allows users to create and share relational databases with a simple, user-friendly interface. 
 
 To enhance usability and accessibility, this project features a relational database created in Airtable that organizes and links the CSV files containing cybersecurity standards. This setup allows for a dynamic and interactive way to explore and relate the data across various security standards.
