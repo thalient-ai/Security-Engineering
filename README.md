@@ -48,7 +48,7 @@ Below is Microsoft Access database that uses the same .csv files  with the relat
 
 [**Microsoft Access Database**](https://github.com/thalient-ai/Security-Engineering/blob/main/Access%20Database/Security_Engineering.accdb "Microsoft Access Database")
 
-![Microsoft Access](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/database_schema.PNG)"Microsoft Access")
+![Microsoft Access](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/ms-access.PNG)"Microsoft Access")
 
 ## CSV Files
 
