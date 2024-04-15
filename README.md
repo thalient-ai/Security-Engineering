@@ -44,7 +44,7 @@ Below is a screenshot of the database scheme configured within Airtable. Here is
 
 ## Microsoft Access
 
-Below is Microsoft Access database that uses the same .csv files below with the relationships already configured.
+Below is Microsoft Access database that uses the same .csv files  with the relationships already configured. There may be some issues with truncation of Long Text fields, these will be addressed in time.
 
 [**Microsoft Access Database**](https://github.com/thalient-ai/Security-Engineering/blob/main/Access%20Database/Security_Engineering.accdb "Microsoft Access Database")
 
