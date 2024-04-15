@@ -14,7 +14,7 @@ Cybersecurity standards and guidance are a crucial mechanism for engineering bet
 
 - [Getting Started](#getting-started)
 - [Airtable](#airtable)
-- [Microsoft Access](#mirosoft-access)
+- [Microsoft Access](#microsoft-access)
 - [CSV Files](#csv-files)
 - [Junction Tables](#junction-tables)
 - [Questions and Feedback?](#questions-and-feedback)
@@ -43,6 +43,8 @@ Below is a screenshot of the database scheme configured within Airtable. Here is
 ![Database Schema](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/database_schema.PNG?raw=true "Database Schema")
 
 ## Microsoft Access
+
+Below is Microsoft Access database that uses the same .csv files below with the relationships already configured.
 
 [**Microsoft Access Database**](https://github.com/thalient-ai/Security-Engineering/blob/main/Access%20Database/Security_Engineering.accdb "Microsoft Access Database")
 
