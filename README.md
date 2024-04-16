@@ -83,6 +83,8 @@ In a relational database, tables are linked by relationships, which can be one-t
 
 A junction table is a table created specifically to handle a many-to-many relationship between two other tables. It does this by having primarily two foreign keys, each pointing to the primary key of one of the involved tables.
 
+![Junction Table](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/junction_example.PNG "Junction Table")
+
 ### Junction Table Files
 
 | .csv File  | URL | Notes |
