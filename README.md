@@ -27,6 +27,8 @@ You can use the CSV files in this repository to:
 - Analyze relationships between different standards and requirements.
 - Develop applications or services that leverage centralized, structured security data.
 
+Given that this data is structured and organized within these CSV files, they are ideally suited for building a relational database. This enables you to create robust, queryable structures that can further enhance data accessibility and integrity. Establishing a relational database with this data allows for more complex queries and reporting, facilitating deeper insights into cybersecurity standards and their interconnections. This approach can significantly improve the efficiency and effectiveness of your cybersecurity measures by providing a comprehensive, interconnected environment of standards and requirements.
+
 ## Airtable
 
 [**Airtable Database**](https://airtable.com/appIfMZL3Q2ydSFFk/shrT54RhWgP8oeoKI "Airtable Database")
