@@ -50,7 +50,7 @@ Below is Microsoft Access database that uses the same .csv files  with the relat
 
 [**Microsoft Access Database**](https://github.com/thalient-ai/Security-Engineering/blob/main/Access%20Database/Security_Engineering.accdb "Microsoft Access Database")
 
-![Microsoft Access](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/ms-access.PNG)"Microsoft Access")
+![Microsoft Access](https://github.com/thalient-ai/Security-Engineering/blob/main/Images/ms-access.PNG "Microsoft Access")
 
 ## CSV Files
 
@@ -74,6 +74,16 @@ Below is Microsoft Access database that uses the same .csv files  with the relat
 | [ISO 27001 / 27002](https://github.com/thalient-ai/Security-Engineering/blob/main/Data/ISO%2027001_27002.csv "ISO 27001 / 27002") | Information security, cybersecurity and privacy protection: Information security management systems: Requirements | October 2022 | [[Source]](https://www.iso.org/standard/27001 "[Source]")
 
 ## Junction Tables
+
+Junction tables, also known as bridge tables, associative tables, join tables, or many-to-many resolution tables, are a fundamental concept in relational database design, used primarily to manage many-to-many (M:N) relationships between tables.
+
+### What are Junction Tables?
+
+In a relational database, tables are linked by relationships, which can be one-to-one, one-to-many, or many-to-many. Many-to-many relationships are particularly complex because they involve multiple records on both sides of the relationship, which standard table structures don't directly support. This is where junction tables come in.
+
+A junction table is a table created specifically to handle a many-to-many relationship between two other tables. It does this by having primarily two foreign keys, each pointing to the primary key of one of the involved tables.
+
+### Junction Table Files
 
 | .csv File  | URL | Notes |
 | :------------ | :------------ | :------------ |
